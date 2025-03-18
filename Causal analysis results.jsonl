@@ -1,0 +1,1059 @@
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Latitude, Dive support vessel", "ATE": "-0.957193981", "p-value (Stouffer's Combination)": "0.027785301"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Breadth, Dive support vessel", "ATE": "-0.936905186", "p-value (Stouffer's Combination)": "0.030478283"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Longitude, Dive support vessel", "ATE": "-0.922541024", "p-value (Stouffer's Combination)": "0.032512802"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Longitude, Dredging Vessel", "ATE": "-0.92713063", "p-value (Stouffer's Combination)": "0.031850896"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Length, Dive support vessel", "ATE": "-0.918696872", "p-value (Stouffer's Combination)": "0.033075895"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Length, Dredging Vessel", "ATE": "-0.926202139", "p-value (Stouffer's Combination)": "0.031983896"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Breadth, Dive support vessel", "ATE": "-0.967901472", "p-value (Stouffer's Combination)": "0.02644592"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Breadth, Dredging Vessel", "ATE": "-0.960404862", "p-value (Stouffer's Combination)": "0.02737785"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Wind, Dredging Vessel", "ATE": "-0.916261663", "p-value (Stouffer's Combination)": "0.033436745"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Power, Dive support vessel", "ATE": "-0.930110677", "p-value (Stouffer's Combination)": "0.031427108"}
+{"Accident_Type": "Collision", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Power, Dredging Vessel", "ATE": "-0.938276357", "p-value (Stouffer's Combination)": "0.030289712"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Tanker", "ATE": "0.985948204", "p-value (Stouffer's Combination)": "0.043844862"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Tanker", "ATE": "1.069445999", "p-value (Stouffer's Combination)": "0.03198888"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Tanker", "ATE": "0.982891123", "p-value (Stouffer's Combination)": "0.044338579"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Tanker", "ATE": "0.971477357", "p-value (Stouffer's Combination)": "0.046221613"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Tanker", "ATE": "0.98450775", "p-value (Stouffer's Combination)": "0.044076939"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Deck barge", "ATE": "1.096161602", "p-value (Stouffer's Combination)": "0.028808045"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Offshore Vessel", "ATE": "0.968993787", "p-value (Stouffer's Combination)": "0.04663974"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Tanker", "ATE": "1.235633828", "p-value (Stouffer's Combination)": "0.016170088"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Length, Tanker", "ATE": "0.962712674", "p-value (Stouffer's Combination)": "0.047710764"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Wind, Tanker", "ATE": "0.983833098", "p-value (Stouffer's Combination)": "0.044185975"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Visibility, Tanker", "ATE": "0.982617003", "p-value (Stouffer's Combination)": "0.044383067"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Power, Tanker", "ATE": "0.957420518", "p-value (Stouffer's Combination)": "0.048628366"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Weekday, Tanker", "ATE": "0.953253605", "p-value (Stouffer's Combination)": "0.028292216"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Month_sin, Tanker", "ATE": "1.075837221", "p-value (Stouffer's Combination)": "0.015711502"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Time_Period_Code, Tanker", "ATE": "0.986025338", "p-value (Stouffer's Combination)": "0.024301911"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Latitude, Tanker", "ATE": "0.970675203", "p-value (Stouffer's Combination)": "0.026107895"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Longitude, Tanker", "ATE": "0.985097434", "p-value (Stouffer's Combination)": "0.024408021"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Vessel number, Deck barge", "ATE": "1.102626551", "p-value (Stouffer's Combination)": "0.013718169"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Vessel number, Offshore Vessel", "ATE": "0.96051601", "p-value (Stouffer's Combination)": "0.027363835"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Vessel number, Tanker", "ATE": "1.2249255", "p-value (Stouffer's Combination)": "0.007145767"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Length, Tanker", "ATE": "0.966637138", "p-value (Stouffer's Combination)": "0.026601209"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Draft, Tanker", "ATE": "0.944295803", "p-value (Stouffer's Combination)": "0.029473286"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Wind, Tanker", "ATE": "0.989748481", "p-value (Stouffer's Combination)": "0.023880041"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Visibility, Tanker", "ATE": "0.985871605", "p-value (Stouffer's Combination)": "0.024319464"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Tonnage, Tanker", "ATE": "0.931348435", "p-value (Stouffer's Combination)": "0.031252463"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Year, Power, Tanker", "ATE": "0.960064965", "p-value (Stouffer's Combination)": "0.027420745"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Month_sin, Tanker", "ATE": "1.035173798", "p-value (Stouffer's Combination)": "0.019209903"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Time_Period_Code, Tanker", "ATE": "0.949434957", "p-value (Stouffer's Combination)": "0.028790791"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Latitude, Tanker", "ATE": "0.936195565", "p-value (Stouffer's Combination)": "0.030576256"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Longitude, Tanker", "ATE": "0.946038591", "p-value (Stouffer's Combination)": "0.029240349"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Vessel number, Deck barge", "ATE": "1.070469813", "p-value (Stouffer's Combination)": "0.016139454"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Vessel number, Offshore Vessel", "ATE": "0.937003257", "p-value (Stouffer's Combination)": "0.030464764"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Vessel number, Tanker", "ATE": "1.20756755", "p-value (Stouffer's Combination)": "0.007864687"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Length, Tanker", "ATE": "0.930167601", "p-value (Stouffer's Combination)": "0.031419058"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Wind, Tanker", "ATE": "0.946447907", "p-value (Stouffer's Combination)": "0.029185863"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Visibility, Tanker", "ATE": "0.948102291", "p-value (Stouffer's Combination)": "0.028966499"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Weekday, Power, Tanker", "ATE": "0.925929861", "p-value (Stouffer's Combination)": "0.032022985"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Time_Period_Code, Vessel number", "ATE": "0.921785898", "p-value (Stouffer's Combination)": "0.032622785"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Time_Period_Code, Tanker", "ATE": "1.069027583", "p-value (Stouffer's Combination)": "0.016256133"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Latitude, Tanker", "ATE": "1.056461918", "p-value (Stouffer's Combination)": "0.017303644"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Longitude, Tanker", "ATE": "1.073642863", "p-value (Stouffer's Combination)": "0.015885271"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Vessel number, Length", "ATE": "0.930580411", "p-value (Stouffer's Combination)": "0.031360735"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Vessel number, Breadth", "ATE": "0.95035999", "p-value (Stouffer's Combination)": "0.02866935"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Vessel number, Draft", "ATE": "0.930963548", "p-value (Stouffer's Combination)": "0.031306684"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Vessel number, Visibility", "ATE": "0.926880993", "p-value (Stouffer's Combination)": "0.03188661"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Vessel number, Tonnage", "ATE": "0.974950245", "p-value (Stouffer's Combination)": "0.02559399"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Vessel number, Deck barge", "ATE": "1.195768799", "p-value (Stouffer's Combination)": "0.008388983"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Vessel number, Offshore Vessel", "ATE": "1.036673998", "p-value (Stouffer's Combination)": "0.019069952"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Vessel number, Tanker", "ATE": "1.281540432", "p-value (Stouffer's Combination)": "0.005187394"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Length, Tanker", "ATE": "1.048265945", "p-value (Stouffer's Combination)": "0.018017517"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Breadth, Tanker", "ATE": "0.989103924", "p-value (Stouffer's Combination)": "0.023952632"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Draft, Tanker", "ATE": "1.028922218", "p-value (Stouffer's Combination)": "0.019802534"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Wind, Tanker", "ATE": "1.074471842", "p-value (Stouffer's Combination)": "0.015819432"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Visibility, Tanker", "ATE": "1.070244538", "p-value (Stouffer's Combination)": "0.016157631"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Tonnage, Deck barge", "ATE": "0.952028636", "p-value (Stouffer's Combination)": "0.028451363"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Tonnage, Tanker", "ATE": "1.015217251", "p-value (Stouffer's Combination)": "0.021156196"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Month_sin, Power, Tanker", "ATE": "1.031443473", "p-value (Stouffer's Combination)": "0.019561685"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Latitude, Tanker", "ATE": "0.971703355", "p-value (Stouffer's Combination)": "0.025983519"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Longitude, Tanker", "ATE": "0.985076081", "p-value (Stouffer's Combination)": "0.024410467"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Vessel number, Tonnage", "ATE": "0.918666144", "p-value (Stouffer's Combination)": "0.033080428"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Vessel number, Deck barge", "ATE": "1.092373295", "p-value (Stouffer's Combination)": "0.014453716"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Vessel number, Offshore Vessel", "ATE": "0.968560096", "p-value (Stouffer's Combination)": "0.026365327"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Vessel number, Tanker", "ATE": "1.23949992", "p-value (Stouffer's Combination)": "0.006587568"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Length, Tanker", "ATE": "0.964469774", "p-value (Stouffer's Combination)": "0.026869184"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Draft, Tanker", "ATE": "0.942970763", "p-value (Stouffer's Combination)": "0.029651417"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Wind, Tanker", "ATE": "0.981569213", "p-value (Stouffer's Combination)": "0.024815046"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Visibility, Tanker", "ATE": "0.982610123", "p-value (Stouffer's Combination)": "0.024694376"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Tonnage, Tanker", "ATE": "0.928494705", "p-value (Stouffer's Combination)": "0.03165633"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Time_Period_Code, Power, Tanker", "ATE": "0.959023399", "p-value (Stouffer's Combination)": "0.027552539"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Longitude, Tanker", "ATE": "0.974136987", "p-value (Stouffer's Combination)": "0.025691095"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Vessel number, Deck barge", "ATE": "1.086335826", "p-value (Stouffer's Combination)": "0.014902519"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Vessel number, Offshore Vessel", "ATE": "0.955085295", "p-value (Stouffer's Combination)": "0.028055626"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Vessel number, Tanker", "ATE": "1.226829027", "p-value (Stouffer's Combination)": "0.007070569"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Length, Tanker", "ATE": "0.951077053", "p-value (Stouffer's Combination)": "0.028575505"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Draft, Tanker", "ATE": "0.933341956", "p-value (Stouffer's Combination)": "0.030972871"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Wind, Tanker", "ATE": "0.973525025", "p-value (Stouffer's Combination)": "0.025764367"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Visibility, Tanker", "ATE": "0.970367126", "p-value (Stouffer's Combination)": "0.02614526"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Tonnage, Tanker", "ATE": "0.917373257", "p-value (Stouffer's Combination)": "0.033271628"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Latitude, Power, Tanker", "ATE": "0.943571171", "p-value (Stouffer's Combination)": "0.029570591"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Vessel number, Deck barge", "ATE": "1.075762607", "p-value (Stouffer's Combination)": "0.015717384"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Vessel number, Offshore Vessel", "ATE": "0.946853829", "p-value (Stouffer's Combination)": "0.029131912"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Vessel number, Tanker", "ATE": "1.231653005", "p-value (Stouffer's Combination)": "0.006883118"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Length, Tanker", "ATE": "0.968356851", "p-value (Stouffer's Combination)": "0.026390175"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Draft, Tanker", "ATE": "0.947676085", "p-value (Stouffer's Combination)": "0.02902288"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Wind, Tanker", "ATE": "0.985502492", "p-value (Stouffer's Combination)": "0.024361653"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Visibility, Tanker", "ATE": "0.983422674", "p-value (Stouffer's Combination)": "0.024600521"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Tonnage, Tanker", "ATE": "0.933064203", "p-value (Stouffer's Combination)": "0.031011701"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Longitude, Power, Tanker", "ATE": "0.957743482", "p-value (Stouffer's Combination)": "0.027715215"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Length, Deck barge", "ATE": "1.114735892", "p-value (Stouffer's Combination)": "0.012891265"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Length, Offshore Vessel", "ATE": "0.983648565", "p-value (Stouffer's Combination)": "0.024574483"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Length, Tanker", "ATE": "1.219565288", "p-value (Stouffer's Combination)": "0.007361324"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Breadth, Deck barge", "ATE": "1.118463574", "p-value (Stouffer's Combination)": "0.012645551"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Breadth, Offshore Vessel", "ATE": "0.976380719", "p-value (Stouffer's Combination)": "0.025423935"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Breadth, Tanker", "ATE": "1.139944046", "p-value (Stouffer's Combination)": "0.011307163"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Draft, Deck barge", "ATE": "1.121363987", "p-value (Stouffer's Combination)": "0.012457181"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Draft, Offshore Vessel", "ATE": "1.009517562", "p-value (Stouffer's Combination)": "0.021741784"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Draft, Tanker", "ATE": "1.205848096", "p-value (Stouffer's Combination)": "0.007939253"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Wind, Deck barge", "ATE": "1.052655938", "p-value (Stouffer's Combination)": "0.017632085"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Wind, Offshore Vessel", "ATE": "0.957226865", "p-value (Stouffer's Combination)": "0.027781103"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Wind, Tanker", "ATE": "1.232332603", "p-value (Stouffer's Combination)": "0.006857066"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Visibility, Tonnage", "ATE": "0.91835431", "p-value (Stouffer's Combination)": "0.033126461"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Visibility, Deck barge", "ATE": "1.103947815", "p-value (Stouffer's Combination)": "0.013625775"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Visibility, Offshore Vessel", "ATE": "0.973312983", "p-value (Stouffer's Combination)": "0.025789797"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Visibility, Tanker", "ATE": "1.238252013", "p-value (Stouffer's Combination)": "0.006633806"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Tonnage, Deck barge", "ATE": "1.209136925", "p-value (Stouffer's Combination)": "0.007797168"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Tonnage, Offshore Vessel", "ATE": "1.059231769", "p-value (Stouffer's Combination)": "0.017067915"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Tonnage, Tanker", "ATE": "1.175823779", "p-value (Stouffer's Combination)": "0.009345237"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Vessel number, Power, Tanker", "ATE": "1.219348759", "p-value (Stouffer's Combination)": "0.00737015"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Length, Draft, Tanker", "ATE": "0.93846536", "p-value (Stouffer's Combination)": "0.030263795"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Length, Wind, Tanker", "ATE": "0.964385246", "p-value (Stouffer's Combination)": "0.02687968"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Length, Visibility, Tanker", "ATE": "0.960757978", "p-value (Stouffer's Combination)": "0.027333346"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Length, Tonnage, Tanker", "ATE": "0.925353043", "p-value (Stouffer's Combination)": "0.032105924"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Length, Power, Tanker", "ATE": "0.943212358", "p-value (Stouffer's Combination)": "0.029618872"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Draft, Wind, Tanker", "ATE": "0.94728186", "p-value (Stouffer's Combination)": "0.029075113"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Draft, Visibility, Tanker", "ATE": "0.938022335", "p-value (Stouffer's Combination)": "0.030324573"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Draft, Power, Tanker", "ATE": "0.924798268", "p-value (Stouffer's Combination)": "0.032185861"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Wind, Visibility, Tanker", "ATE": "0.982712924", "p-value (Stouffer's Combination)": "0.024682485"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Wind, Tonnage, Tanker", "ATE": "0.926917928", "p-value (Stouffer's Combination)": "0.031881324"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Wind, Power, Tanker", "ATE": "0.959416742", "p-value (Stouffer's Combination)": "0.027502705"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Visibility, Tonnage, Tanker", "ATE": "0.927008809", "p-value (Stouffer's Combination)": "0.03186832"}
+{"Accident_Type": "Collision", "HFACS-S": "PE", "Attribute_Combination": " Visibility, Power, Tanker", "ATE": "0.955876985", "p-value (Stouffer's Combination)": "0.027953879"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Tanker", "ATE": "0.993189263", "p-value (Stouffer's Combination)": "0.042693116"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Tanker", "ATE": "1.009911077", "p-value (Stouffer's Combination)": "0.040126733"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Tanker", "ATE": "1.022607398", "p-value (Stouffer's Combination)": "0.038263062"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Time_Period_Code, Tanker", "ATE": "0.995171394", "p-value (Stouffer's Combination)": "0.042382144"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Latitude, Tanker", "ATE": "0.990403105", "p-value (Stouffer's Combination)": "0.043133347"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Longitude, Tanker", "ATE": "1.000849948", "p-value (Stouffer's Combination)": "0.04150138"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Vessel number, Tanker", "ATE": "0.986317735", "p-value (Stouffer's Combination)": "0.043785484"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Length, Tanker", "ATE": "0.956596974", "p-value (Stouffer's Combination)": "0.048772419"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Wind, Tanker", "ATE": "1.035829333", "p-value (Stouffer's Combination)": "0.036397884"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Visibility, Tanker", "ATE": "0.991420289", "p-value (Stouffer's Combination)": "0.042972202"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Power, Tanker", "ATE": "0.966404603", "p-value (Stouffer's Combination)": "0.047078874"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Weekday, Tanker", "ATE": "1.009324835", "p-value (Stouffer's Combination)": "0.021761822"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Month_sin, Tanker", "ATE": "1.022588479", "p-value (Stouffer's Combination)": "0.020418708"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Time_Period_Code, Tanker", "ATE": "0.997205266", "p-value (Stouffer's Combination)": "0.023053604"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Latitude, Tanker", "ATE": "0.99608622", "p-value (Stouffer's Combination)": "0.023176071"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Longitude, Tanker", "ATE": "1.005066094", "p-value (Stouffer's Combination)": "0.0222086"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Vessel number, Tanker", "ATE": "1.002222588", "p-value (Stouffer's Combination)": "0.022511197"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Length, Tanker", "ATE": "0.957749209", "p-value (Stouffer's Combination)": "0.027714485"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Draft, Tanker", "ATE": "0.934509329", "p-value (Stouffer's Combination)": "0.030810109"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Wind, Tanker", "ATE": "1.034681509", "p-value (Stouffer's Combination)": "0.019256017"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Visibility, Tanker", "ATE": "0.993654859", "p-value (Stouffer's Combination)": "0.023444043"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Year, Power, Tanker", "ATE": "0.968775392", "p-value (Stouffer's Combination)": "0.026339026"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Month_sin, Tanker", "ATE": "1.041596203", "p-value (Stouffer's Combination)": "0.018616844"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Time_Period_Code, Tanker", "ATE": "1.010924114", "p-value (Stouffer's Combination)": "0.021596017"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Latitude, Tanker", "ATE": "1.009234856", "p-value (Stouffer's Combination)": "0.021771183"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Longitude, Tanker", "ATE": "1.022044243", "p-value (Stouffer's Combination)": "0.020472403"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Vessel number, Tanker", "ATE": "1.000844752", "p-value (Stouffer's Combination)": "0.022659068"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Length, Tanker", "ATE": "0.974647256", "p-value (Stouffer's Combination)": "0.025630132"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Draft, Tanker", "ATE": "0.952789872", "p-value (Stouffer's Combination)": "0.028352376"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Wind, Tanker", "ATE": "1.058093166", "p-value (Stouffer's Combination)": "0.017164482"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Visibility, Tanker", "ATE": "1.009869412", "p-value (Stouffer's Combination)": "0.021705243"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Tonnage, Tanker", "ATE": "0.924982606", "p-value (Stouffer's Combination)": "0.032159282"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Weekday, Power, Tanker", "ATE": "0.985725238", "p-value (Stouffer's Combination)": "0.024336186"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Time_Period_Code, Tanker", "ATE": "1.027578767", "p-value (Stouffer's Combination)": "0.019931896"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Latitude, Tanker", "ATE": "1.020869258", "p-value (Stouffer's Combination)": "0.020588738"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Longitude, Tanker", "ATE": "1.0333111", "p-value (Stouffer's Combination)": "0.019384884"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Vessel number, Tanker", "ATE": "1.003145375", "p-value (Stouffer's Combination)": "0.022412618"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Length, Tanker", "ATE": "0.989141051", "p-value (Stouffer's Combination)": "0.023948445"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Breadth, Tanker", "ATE": "0.916475598", "p-value (Stouffer's Combination)": "0.033404915"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Draft, Tanker", "ATE": "0.965484737", "p-value (Stouffer's Combination)": "0.026743414"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Wind, Tanker", "ATE": "1.070316415", "p-value (Stouffer's Combination)": "0.01615183"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Visibility, Tanker", "ATE": "1.023683846", "p-value (Stouffer's Combination)": "0.020310998"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Tonnage, Tanker", "ATE": "0.938320808", "p-value (Stouffer's Combination)": "0.030283615"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Month_sin, Power, Tanker", "ATE": "0.993001106", "p-value (Stouffer's Combination)": "0.023516539"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Time_Period_Code, Latitude, Tanker", "ATE": "0.993774401", "p-value (Stouffer's Combination)": "0.023430807"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Time_Period_Code, Longitude, Tanker", "ATE": "1.003477436", "p-value (Stouffer's Combination)": "0.022377234"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Time_Period_Code, Vessel number, Tanker", "ATE": "0.982644138", "p-value (Stouffer's Combination)": "0.024690441"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Time_Period_Code, Length, Tanker", "ATE": "0.957023755", "p-value (Stouffer's Combination)": "0.027807043"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Time_Period_Code, Draft, Tanker", "ATE": "0.935425999", "p-value (Stouffer's Combination)": "0.030682799"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Time_Period_Code, Wind, Tanker", "ATE": "1.04538742", "p-value (Stouffer's Combination)": "0.018274126"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Time_Period_Code, Visibility, Tanker", "ATE": "0.995126033", "p-value (Stouffer's Combination)": "0.023281588"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Time_Period_Code, Power, Tanker", "ATE": "0.967733534", "p-value (Stouffer's Combination)": "0.026466503"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Latitude, Longitude, Tanker", "ATE": "0.999471653", "p-value (Stouffer's Combination)": "0.022807244"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Latitude, Vessel number, Tanker", "ATE": "0.985863105", "p-value (Stouffer's Combination)": "0.024320435"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Latitude, Length, Tanker", "ATE": "0.955426484", "p-value (Stouffer's Combination)": "0.028011739"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Latitude, Draft, Tanker", "ATE": "0.933185324", "p-value (Stouffer's Combination)": "0.030994763"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Latitude, Wind, Tanker", "ATE": "1.03210663", "p-value (Stouffer's Combination)": "0.01949875"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Latitude, Visibility, Tanker", "ATE": "0.989383053", "p-value (Stouffer's Combination)": "0.023921173"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Latitude, Power, Tanker", "ATE": "0.963588746", "p-value (Stouffer's Combination)": "0.026978757"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Longitude, Vessel number, Tanker", "ATE": "0.992550132", "p-value (Stouffer's Combination)": "0.023566659"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Longitude, Length, Tanker", "ATE": "0.973987641", "p-value (Stouffer's Combination)": "0.02570896"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Longitude, Draft, Tanker", "ATE": "0.946374543", "p-value (Stouffer's Combination)": "0.029195623"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Longitude, Wind, Tanker", "ATE": "1.046099342", "p-value (Stouffer's Combination)": "0.018210373"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Longitude, Visibility, Tanker", "ATE": "0.999801453", "p-value (Stouffer's Combination)": "0.02277158"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Longitude, Tonnage, Tanker", "ATE": "0.919673844", "p-value (Stouffer's Combination)": "0.032932031"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Longitude, Power, Tanker", "ATE": "0.975405697", "p-value (Stouffer's Combination)": "0.025539743"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Vessel number, Length, Tanker", "ATE": "0.962292192", "p-value (Stouffer's Combination)": "0.027140687"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Vessel number, Draft, Tanker", "ATE": "0.947050179", "p-value (Stouffer's Combination)": "0.029105845"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Vessel number, Wind, Tanker", "ATE": "1.01733137", "p-value (Stouffer's Combination)": "0.02094241"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Vessel number, Visibility, Tanker", "ATE": "0.989202042", "p-value (Stouffer's Combination)": "0.02394157"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Vessel number, Power, Tanker", "ATE": "0.971835399", "p-value (Stouffer's Combination)": "0.025967581"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Length, Draft, Tanker", "ATE": "0.921207932", "p-value (Stouffer's Combination)": "0.032707172"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Length, Wind, Tanker", "ATE": "1.005854056", "p-value (Stouffer's Combination)": "0.022125357"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Length, Visibility, Tanker", "ATE": "0.954258043", "p-value (Stouffer's Combination)": "0.028162273"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Length, Power, Tanker", "ATE": "0.938518894", "p-value (Stouffer's Combination)": "0.030256457"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Breadth, Wind, Tanker", "ATE": "0.919125888", "p-value (Stouffer's Combination)": "0.033012657"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Draft, Wind, Tanker", "ATE": "0.983079093", "p-value (Stouffer's Combination)": "0.02464017"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Draft, Visibility, Tanker", "ATE": "0.924346186", "p-value (Stouffer's Combination)": "0.032251123"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Wind, Visibility, Tanker", "ATE": "1.034862296", "p-value (Stouffer's Combination)": "0.019239071"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Wind, Tonnage, Tanker", "ATE": "0.949836461", "p-value (Stouffer's Combination)": "0.028738028"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Wind, Power, Tanker", "ATE": "1.013665309", "p-value (Stouffer's Combination)": "0.021314306"}
+{"Accident_Type": "Collision", "HFACS-S": "PIO", "Attribute_Combination": " Visibility, Power, Tanker", "ATE": "0.964733157", "p-value (Stouffer's Combination)": "0.026836499"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Tanker", "ATE": "0.981616482", "p-value (Stouffer's Combination)": "0.044545752"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Tanker", "ATE": "1.042423163", "p-value (Stouffer's Combination)": "0.035495902"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Tanker", "ATE": "0.965938961", "p-value (Stouffer's Combination)": "0.047158199"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Tanker", "ATE": "0.984864694", "p-value (Stouffer's Combination)": "0.044019338"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Tanker", "ATE": "0.980497721", "p-value (Stouffer's Combination)": "0.044728231"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Longitude, Tanker", "ATE": "0.967718967", "p-value (Stouffer's Combination)": "0.046855541"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Deck barge", "ATE": "0.964175887", "p-value (Stouffer's Combination)": "0.047459521"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Tanker", "ATE": "1.104511135", "p-value (Stouffer's Combination)": "0.027869584"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Length, Tanker", "ATE": "0.959058057", "p-value (Stouffer's Combination)": "0.048342939"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Wind, Tanker", "ATE": "0.96667864", "p-value (Stouffer's Combination)": "0.047032241"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Visibility, Tanker", "ATE": "0.978267229", "p-value (Stouffer's Combination)": "0.045093839"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Power, Tanker", "ATE": "0.952968972", "p-value (Stouffer's Combination)": "0.049411092"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Weekday, Tanker", "ATE": "1.040386058", "p-value (Stouffer's Combination)": "0.018727385"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Month_sin, Tanker", "ATE": "0.964735704", "p-value (Stouffer's Combination)": "0.026836183"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Time_Period_Code, Tanker", "ATE": "0.988204432", "p-value (Stouffer's Combination)": "0.024054244"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Latitude, Tanker", "ATE": "0.991683122", "p-value (Stouffer's Combination)": "0.023663267"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Longitude, Tanker", "ATE": "0.975533573", "p-value (Stouffer's Combination)": "0.025524529"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Vessel number, Deck barge", "ATE": "1.027251419", "p-value (Stouffer's Combination)": "0.019963525"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Vessel number, Tanker", "ATE": "1.140920575", "p-value (Stouffer's Combination)": "0.01124936"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Length, Tanker", "ATE": "0.960732049", "p-value (Stouffer's Combination)": "0.027336612"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Draft, Tanker", "ATE": "0.946238321", "p-value (Stouffer's Combination)": "0.029213752"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Wind, Tanker", "ATE": "0.962826241", "p-value (Stouffer's Combination)": "0.02707389"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Visibility, Tanker", "ATE": "0.981013581", "p-value (Stouffer's Combination)": "0.024879661"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Tonnage, Tanker", "ATE": "0.931248763", "p-value (Stouffer's Combination)": "0.031266497"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Year, Power, Tanker", "ATE": "0.957284931", "p-value (Stouffer's Combination)": "0.027773691"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Month_sin, Tanker", "ATE": "1.029848277", "p-value (Stouffer's Combination)": "0.01971378"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Time_Period_Code, Tanker", "ATE": "1.04289906", "p-value (Stouffer's Combination)": "0.018498457"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Latitude, Tanker", "ATE": "1.045368022", "p-value (Stouffer's Combination)": "0.018275866"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Longitude, Tanker", "ATE": "1.037301817", "p-value (Stouffer's Combination)": "0.019011642"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Vessel number, Deck barge", "ATE": "1.018693835", "p-value (Stouffer's Combination)": "0.020805604"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Vessel number, Tanker", "ATE": "1.152959451", "p-value (Stouffer's Combination)": "0.010557582"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Length, Tanker", "ATE": "1.020414222", "p-value (Stouffer's Combination)": "0.020633941"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Breadth, Tanker", "ATE": "0.974731687", "p-value (Stouffer's Combination)": "0.025620056"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Draft, Tanker", "ATE": "1.001781053", "p-value (Stouffer's Combination)": "0.022558494"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Wind, Tanker", "ATE": "1.034101629", "p-value (Stouffer's Combination)": "0.019310457"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Visibility, Tanker", "ATE": "1.041955573", "p-value (Stouffer's Combination)": "0.018584125"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Tonnage, Tanker", "ATE": "0.990483157", "p-value (Stouffer's Combination)": "0.023797526"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Weekday, Power, Tanker", "ATE": "1.016007117", "p-value (Stouffer's Combination)": "0.021076107"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Time_Period_Code, Tanker", "ATE": "0.973914898", "p-value (Stouffer's Combination)": "0.025717666"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Latitude, Tanker", "ATE": "0.968055799", "p-value (Stouffer's Combination)": "0.026427017"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Longitude, Tanker", "ATE": "0.954339731", "p-value (Stouffer's Combination)": "0.028151727"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Vessel number, Deck barge", "ATE": "0.991566129", "p-value (Stouffer's Combination)": "0.023676329"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Vessel number, Tanker", "ATE": "1.096905133", "p-value (Stouffer's Combination)": "0.014124526"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Length, Tanker", "ATE": "0.948176949", "p-value (Stouffer's Combination)": "0.028956632"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Draft, Tanker", "ATE": "0.930091091", "p-value (Stouffer's Combination)": "0.031429878"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Wind, Tanker", "ATE": "0.952674611", "p-value (Stouffer's Combination)": "0.028367346"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Visibility, Tanker", "ATE": "0.96635227", "p-value (Stouffer's Combination)": "0.026636303"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Month_sin, Power, Tanker", "ATE": "0.944091205", "p-value (Stouffer's Combination)": "0.029500733"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Latitude, Tanker", "ATE": "0.985815092", "p-value (Stouffer's Combination)": "0.024325919"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Longitude, Tanker", "ATE": "0.971428198", "p-value (Stouffer's Combination)": "0.026016756"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Vessel number, Deck barge", "ATE": "0.958536359", "p-value (Stouffer's Combination)": "0.027614347"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Vessel number, Tanker", "ATE": "1.096271698", "p-value (Stouffer's Combination)": "0.014170147"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Length, Tanker", "ATE": "0.958160852", "p-value (Stouffer's Combination)": "0.02766208"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Breadth, Tanker", "ATE": "0.918672338", "p-value (Stouffer's Combination)": "0.033079514"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Draft, Tanker", "ATE": "0.94608465", "p-value (Stouffer's Combination)": "0.029234214"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Wind, Tanker", "ATE": "0.981970249", "p-value (Stouffer's Combination)": "0.024768496"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Visibility, Tanker", "ATE": "0.984509752", "p-value (Stouffer's Combination)": "0.024475426"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Tonnage, Tanker", "ATE": "0.935282149", "p-value (Stouffer's Combination)": "0.030702748"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Time_Period_Code, Power, Tanker", "ATE": "0.954289663", "p-value (Stouffer's Combination)": "0.028158191"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Longitude, Tanker", "ATE": "0.969938179", "p-value (Stouffer's Combination)": "0.026197359"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Vessel number, Deck barge", "ATE": "0.962800319", "p-value (Stouffer's Combination)": "0.027077129"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Vessel number, Tanker", "ATE": "1.103958081", "p-value (Stouffer's Combination)": "0.013625059"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Length, Tanker", "ATE": "0.960801129", "p-value (Stouffer's Combination)": "0.027327912"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Breadth, Tanker", "ATE": "0.915127405", "p-value (Stouffer's Combination)": "0.033605923"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Draft, Tanker", "ATE": "0.942444974", "p-value (Stouffer's Combination)": "0.029722349"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Wind, Tanker", "ATE": "0.969092915", "p-value (Stouffer's Combination)": "0.026300277"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Visibility, Tanker", "ATE": "0.979081681", "p-value (Stouffer's Combination)": "0.025105423"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Tonnage, Tanker", "ATE": "0.927163938", "p-value (Stouffer's Combination)": "0.031846133"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Latitude, Power, Tanker", "ATE": "0.953168131", "p-value (Stouffer's Combination)": "0.028303296"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Longitude, Vessel number, Deck barge", "ATE": "0.938497022", "p-value (Stouffer's Combination)": "0.030259455"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Longitude, Vessel number, Tanker", "ATE": "1.095035583", "p-value (Stouffer's Combination)": "0.014259538"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Longitude, Length, Tanker", "ATE": "0.953762816", "p-value (Stouffer's Combination)": "0.028226278"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Longitude, Draft, Tanker", "ATE": "0.931572645", "p-value (Stouffer's Combination)": "0.031220914"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Longitude, Wind, Tanker", "ATE": "0.955371137", "p-value (Stouffer's Combination)": "0.028018855"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Longitude, Visibility, Tanker", "ATE": "0.966167782", "p-value (Stouffer's Combination)": "0.026659051"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Longitude, Tonnage, Tanker", "ATE": "0.917530437", "p-value (Stouffer's Combination)": "0.033248335"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Longitude, Power, Tanker", "ATE": "0.939338654", "p-value (Stouffer's Combination)": "0.030144284"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Length, Deck barge", "ATE": "0.984495408", "p-value (Stouffer's Combination)": "0.024477073"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Length, Tanker", "ATE": "1.090556355", "p-value (Stouffer's Combination)": "0.014587541"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Breadth, Deck barge", "ATE": "1.006534181", "p-value (Stouffer's Combination)": "0.022053719"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Breadth, Tanker", "ATE": "1.027189545", "p-value (Stouffer's Combination)": "0.019969508"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Draft, Deck barge", "ATE": "0.99024274", "p-value (Stouffer's Combination)": "0.023824502"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Draft, Tanker", "ATE": "1.077487682", "p-value (Stouffer's Combination)": "0.015581881"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Wind, Tanker", "ATE": "1.094305515", "p-value (Stouffer's Combination)": "0.014312562"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Visibility, Deck barge", "ATE": "0.972116757", "p-value (Stouffer's Combination)": "0.025933649"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Visibility, Tanker", "ATE": "1.107429259", "p-value (Stouffer's Combination)": "0.013384889"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Tonnage, Deck barge", "ATE": "1.069228882", "p-value (Stouffer's Combination)": "0.016239804"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Tonnage, Offshore Vessel", "ATE": "0.919884468", "p-value (Stouffer's Combination)": "0.032901084"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Tonnage, Tanker", "ATE": "1.039588291", "p-value (Stouffer's Combination)": "0.018800562"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Vessel number, Power, Tanker", "ATE": "1.088798842", "p-value (Stouffer's Combination)": "0.014718001"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Length, Breadth, Tanker", "ATE": "0.916686935", "p-value (Stouffer's Combination)": "0.033373495"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Length, Draft, Tanker", "ATE": "0.935154131", "p-value (Stouffer's Combination)": "0.030720512"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Length, Wind, Tanker", "ATE": "0.946387045", "p-value (Stouffer's Combination)": "0.029193959"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Length, Visibility, Tanker", "ATE": "0.956412593", "p-value (Stouffer's Combination)": "0.027885218"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Length, Tonnage, Tanker", "ATE": "0.922044093", "p-value (Stouffer's Combination)": "0.032585145"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Length, Power, Tanker", "ATE": "0.939281027", "p-value (Stouffer's Combination)": "0.030152158"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Draft, Wind, Tanker", "ATE": "0.930071402", "p-value (Stouffer's Combination)": "0.031432662"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Draft, Visibility, Tanker", "ATE": "0.933070025", "p-value (Stouffer's Combination)": "0.031010887"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Draft, Power, Tanker", "ATE": "0.92078335", "p-value (Stouffer's Combination)": "0.032769278"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Wind, Visibility, Tanker", "ATE": "0.965042412", "p-value (Stouffer's Combination)": "0.026798164"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Wind, Power, Tanker", "ATE": "0.941577104", "p-value (Stouffer's Combination)": "0.029839736"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Visibility, Tonnage, Tanker", "ATE": "0.922770186", "p-value (Stouffer's Combination)": "0.032479486"}
+{"Accident_Type": "Collision", "HFACS-S": "PML", "Attribute_Combination": " Visibility, Power, Tanker", "ATE": "0.950865393", "p-value (Stouffer's Combination)": "0.028603179"}
+{"Accident_Type": "Collision", "HFACS-S": "TE", "Attribute_Combination": " Year, Power, Dive support vessel", "ATE": "-0.925399235", "p-value (Stouffer's Combination)": "0.032099276"}
+{"Accident_Type": "Collision", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Power, Dredging Vessel", "ATE": "-0.923258541", "p-value (Stouffer's Combination)": "0.032408581"}
+{"Accident_Type": "Collision", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Wind, Dredging Vessel", "ATE": "-0.916191061", "p-value (Stouffer's Combination)": "0.033447255"}
+{"Accident_Type": "Collision", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Power, Dive support vessel", "ATE": "-0.925313874", "p-value (Stouffer's Combination)": "0.032111562"}
+{"Accident_Type": "Collision", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Power, Dredging Vessel", "ATE": "-0.933070592", "p-value (Stouffer's Combination)": "0.031010808"}
+{"Accident_Type": "Collision", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Power, Dive support vessel", "ATE": "-0.915919951", "p-value (Stouffer's Combination)": "0.033487638"}
+{"Accident_Type": "Collision", "HFACS-S": "TE", "Attribute_Combination": " Draft, Power, Dive support vessel", "ATE": "-0.916484392", "p-value (Stouffer's Combination)": "0.033403607"}
+{"Accident_Type": "Collision", "HFACS-S": "TE", "Attribute_Combination": " Wind, Power, Dive support vessel", "ATE": "-0.922594169", "p-value (Stouffer's Combination)": "0.032505073"}
+{"Accident_Type": "Collision", "HFACS-S": "TE", "Attribute_Combination": " Wind, Power, Dredging Vessel", "ATE": "-0.937593261", "p-value (Stouffer's Combination)": "0.030383534"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Dive support vessel", "ATE": "1.022425367", "p-value (Stouffer's Combination)": "0.038289275"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Dive support vessel", "ATE": "0.981681992", "p-value (Stouffer's Combination)": "0.044535085"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Dive support vessel", "ATE": "1.018210408", "p-value (Stouffer's Combination)": "0.038900334"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Dive support vessel", "ATE": "1.020005666", "p-value (Stouffer's Combination)": "0.038639105"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Latitude, Dive support vessel", "ATE": "1.011697973", "p-value (Stouffer's Combination)": "0.039860062"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Longitude, Dive support vessel", "ATE": "1.024242502", "p-value (Stouffer's Combination)": "0.038028263"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Length, Dive support vessel", "ATE": "1.015486601", "p-value (Stouffer's Combination)": "0.039299423"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Breadth, Dive support vessel", "ATE": "0.999003882", "p-value (Stouffer's Combination)": "0.04178607"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Draft, Dive support vessel", "ATE": "1.027344059", "p-value (Stouffer's Combination)": "0.037586112"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Wind, Dive support vessel", "ATE": "0.97045151", "p-value (Stouffer's Combination)": "0.046393956"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Visibility, Dive support vessel", "ATE": "1.025155685", "p-value (Stouffer's Combination)": "0.037897643"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Tonnage, Dive support vessel", "ATE": "1.005085907", "p-value (Stouffer's Combination)": "0.040854073"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Power, Dive support vessel", "ATE": "1.02343969", "p-value (Stouffer's Combination)": "0.038143399"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Weekday, Dive support vessel", "ATE": "0.983017139", "p-value (Stouffer's Combination)": "0.024647326"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Month_sin, Dive support vessel", "ATE": "1.022159886", "p-value (Stouffer's Combination)": "0.020460984"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Time_Period_Code, Dive support vessel", "ATE": "1.024449436", "p-value (Stouffer's Combination)": "0.020236002"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Latitude, Dive support vessel", "ATE": "1.012308346", "p-value (Stouffer's Combination)": "0.02145337"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Longitude, Dive support vessel", "ATE": "1.027773867", "p-value (Stouffer's Combination)": "0.019913065"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Length, Dive support vessel", "ATE": "1.018691795", "p-value (Stouffer's Combination)": "0.020805809"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Breadth, Dive support vessel", "ATE": "1.002354507", "p-value (Stouffer's Combination)": "0.022497082"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Draft, Dive support vessel", "ATE": "1.030155423", "p-value (Stouffer's Combination)": "0.019684417"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Wind, Dive support vessel", "ATE": "0.975779015", "p-value (Stouffer's Combination)": "0.02549535"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Visibility, Dive support vessel", "ATE": "1.038141639", "p-value (Stouffer's Combination)": "0.01893388"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Tonnage, Dive support vessel", "ATE": "1.009613599", "p-value (Stouffer's Combination)": "0.021731805"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Year, Power, Dive support vessel", "ATE": "1.026638581", "p-value (Stouffer's Combination)": "0.020022852"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Month_sin, Dive support vessel", "ATE": "0.981600182", "p-value (Stouffer's Combination)": "0.024811449"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Time_Period_Code, Dive support vessel", "ATE": "0.983527415", "p-value (Stouffer's Combination)": "0.024588445"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Latitude, Dive support vessel", "ATE": "0.975479096", "p-value (Stouffer's Combination)": "0.02553101"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Longitude, Dive support vessel", "ATE": "0.984054148", "p-value (Stouffer's Combination)": "0.024527789"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Length, Dive support vessel", "ATE": "0.98254021", "p-value (Stouffer's Combination)": "0.024702465"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Breadth, Dive support vessel", "ATE": "0.972271896", "p-value (Stouffer's Combination)": "0.025914955"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Draft, Dive support vessel", "ATE": "0.994380398", "p-value (Stouffer's Combination)": "0.023363806"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Wind, Dive support vessel", "ATE": "0.938971614", "p-value (Stouffer's Combination)": "0.030194466"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Visibility, Dive support vessel", "ATE": "0.988474304", "p-value (Stouffer's Combination)": "0.02402372"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Tonnage, Dive support vessel", "ATE": "0.967636703", "p-value (Stouffer's Combination)": "0.026478377"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Weekday, Power, Dive support vessel", "ATE": "0.977867304", "p-value (Stouffer's Combination)": "0.025248213"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Time_Period_Code, Dive support vessel", "ATE": "1.020007774", "p-value (Stouffer's Combination)": "0.020674389"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Latitude, Dive support vessel", "ATE": "1.011783373", "p-value (Stouffer's Combination)": "0.021507375"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Longitude, Dive support vessel", "ATE": "1.024014967", "p-value (Stouffer's Combination)": "0.020278533"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Length, Dive support vessel", "ATE": "1.015057167", "p-value (Stouffer's Combination)": "0.021172459"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Breadth, Dive support vessel", "ATE": "0.998606397", "p-value (Stouffer's Combination)": "0.022901036"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Draft, Dive support vessel", "ATE": "1.027321333", "p-value (Stouffer's Combination)": "0.019956766"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Wind, Dive support vessel", "ATE": "0.969428319", "p-value (Stouffer's Combination)": "0.026259399"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Visibility, Dive support vessel", "ATE": "1.025842976", "p-value (Stouffer's Combination)": "0.020100096"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Tonnage, Dive support vessel", "ATE": "1.004619691", "p-value (Stouffer's Combination)": "0.022255877"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Month_sin, Power, Dive support vessel", "ATE": "1.024004015", "p-value (Stouffer's Combination)": "0.020279606"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Latitude, Dive support vessel", "ATE": "1.013324615", "p-value (Stouffer's Combination)": "0.021349149"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Longitude, Dive support vessel", "ATE": "1.026215375", "p-value (Stouffer's Combination)": "0.020063909"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Length, Dive support vessel", "ATE": "1.017432465", "p-value (Stouffer's Combination)": "0.020932233"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Breadth, Dive support vessel", "ATE": "1.000616037", "p-value (Stouffer's Combination)": "0.022683693"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Draft, Dive support vessel", "ATE": "1.029222223", "p-value (Stouffer's Combination)": "0.019773744"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Wind, Dive support vessel", "ATE": "0.973461754", "p-value (Stouffer's Combination)": "0.025771953"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Visibility, Dive support vessel", "ATE": "1.026404762", "p-value (Stouffer's Combination)": "0.020045527"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Tonnage, Dive support vessel", "ATE": "1.006625184", "p-value (Stouffer's Combination)": "0.022044148"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Time_Period_Code, Power, Dive support vessel", "ATE": "1.026009913", "p-value (Stouffer's Combination)": "0.020083868"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Latitude, Longitude, Dive support vessel", "ATE": "1.015012389", "p-value (Stouffer's Combination)": "0.02117701"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Latitude, Length, Dive support vessel", "ATE": "1.006213543", "p-value (Stouffer's Combination)": "0.022087468"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Latitude, Breadth, Dive support vessel", "ATE": "0.985944887", "p-value (Stouffer's Combination)": "0.024311095"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Latitude, Draft, Dive support vessel", "ATE": "1.010608519", "p-value (Stouffer's Combination)": "0.021628651"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Latitude, Wind, Dive support vessel", "ATE": "0.968168383", "p-value (Stouffer's Combination)": "0.026413234"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Latitude, Visibility, Dive support vessel", "ATE": "1.018620366", "p-value (Stouffer's Combination)": "0.020812962"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Latitude, Tonnage, Dive support vessel", "ATE": "0.998507294", "p-value (Stouffer's Combination)": "0.022911799"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Latitude, Power, Dive support vessel", "ATE": "1.017300319", "p-value (Stouffer's Combination)": "0.020945537"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Longitude, Length, Dive support vessel", "ATE": "1.026240542", "p-value (Stouffer's Combination)": "0.020061466"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Longitude, Breadth, Dive support vessel", "ATE": "1.006776409", "p-value (Stouffer's Combination)": "0.022028252"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Longitude, Draft, Dive support vessel", "ATE": "1.03382267", "p-value (Stouffer's Combination)": "0.019336693"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Longitude, Wind, Dive support vessel", "ATE": "0.976543248", "p-value (Stouffer's Combination)": "0.025404673"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Longitude, Visibility, Dive support vessel", "ATE": "1.032861735", "p-value (Stouffer's Combination)": "0.019427299"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Longitude, Tonnage, Dive support vessel", "ATE": "1.012095683", "p-value (Stouffer's Combination)": "0.021475233"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Longitude, Power, Dive support vessel", "ATE": "1.028415101", "p-value (Stouffer's Combination)": "0.019851281"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Length, Breadth, Dive support vessel", "ATE": "0.997841701", "p-value (Stouffer's Combination)": "0.022984197"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Length, Draft, Dive support vessel", "ATE": "1.020205609", "p-value (Stouffer's Combination)": "0.020654693"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Length, Wind, Dive support vessel", "ATE": "0.97438046", "p-value (Stouffer's Combination)": "0.025661991"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Length, Visibility, Dive support vessel", "ATE": "1.025802666", "p-value (Stouffer's Combination)": "0.020104017"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Length, Tonnage, Dive support vessel", "ATE": "1.011938904", "p-value (Stouffer's Combination)": "0.021491363"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Length, Power, Dive support vessel", "ATE": "1.018396615", "p-value (Stouffer's Combination)": "0.020835383"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Breadth, Draft, Dive support vessel", "ATE": "1.006056528", "p-value (Stouffer's Combination)": "0.02210401"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Breadth, Wind, Dive support vessel", "ATE": "0.964332482", "p-value (Stouffer's Combination)": "0.026886234"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Breadth, Visibility, Dive support vessel", "ATE": "1.012086256", "p-value (Stouffer's Combination)": "0.021476202"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Breadth, Tonnage, Dive support vessel", "ATE": "1.012735622", "p-value (Stouffer's Combination)": "0.021409499"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Breadth, Power, Dive support vessel", "ATE": "1.000846303", "p-value (Stouffer's Combination)": "0.022658901"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Draft, Wind, Dive support vessel", "ATE": "0.985191969", "p-value (Stouffer's Combination)": "0.024397193"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Draft, Visibility, Dive support vessel", "ATE": "1.037383747", "p-value (Stouffer's Combination)": "0.019004044"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Draft, Tonnage, Dive support vessel", "ATE": "1.016439425", "p-value (Stouffer's Combination)": "0.021032382"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Draft, Power, Dive support vessel", "ATE": "1.029673843", "p-value (Stouffer's Combination)": "0.019730472"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Wind, Visibility, Dive support vessel", "ATE": "0.974556102", "p-value (Stouffer's Combination)": "0.025641013"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Wind, Tonnage, Dive support vessel", "ATE": "0.962379908", "p-value (Stouffer's Combination)": "0.027129707"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Wind, Power, Dive support vessel", "ATE": "0.98310895", "p-value (Stouffer's Combination)": "0.024636723"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Visibility, Tonnage, Dive support vessel", "ATE": "1.012395341", "p-value (Stouffer's Combination)": "0.021444431"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Visibility, Power, Dive support vessel", "ATE": "1.029800064", "p-value (Stouffer's Combination)": "0.019718392"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "FCP", "Attribute_Combination": " Tonnage, Power, Dive support vessel", "ATE": "1.019365166", "p-value (Stouffer's Combination)": "0.020738474"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Dive support vessel", "ATE": "1.207762557", "p-value (Stouffer's Combination)": "0.043814999"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Dive support vessel", "ATE": "1.21305626", "p-value (Stouffer's Combination)": "0.017817188"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Dive support vessel", "ATE": "1.184824288", "p-value (Stouffer's Combination)": "0.020076287"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Dive support vessel", "ATE": "1.209921061", "p-value (Stouffer's Combination)": "0.018056858"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Dive support vessel", "ATE": "1.211194003", "p-value (Stouffer's Combination)": "0.017959219"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Dive support vessel", "ATE": "1.204161082", "p-value (Stouffer's Combination)": "0.018504346"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Longitude, Dive support vessel", "ATE": "1.217278631", "p-value (Stouffer's Combination)": "0.017498702"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Vessel number, Dive support vessel", "ATE": "0.989131766", "p-value (Stouffer's Combination)": "0.043335441"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Length, Dive support vessel", "ATE": "1.212693599", "p-value (Stouffer's Combination)": "0.017844772"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Breadth, Dive support vessel", "ATE": "1.228833449", "p-value (Stouffer's Combination)": "0.016651885"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Draft, Dive support vessel", "ATE": "1.21512129", "p-value (Stouffer's Combination)": "0.017660814"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Wind, Dive support vessel", "ATE": "1.187424713", "p-value (Stouffer's Combination)": "0.019858512"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Visibility, Dive support vessel", "ATE": "1.218324463", "p-value (Stouffer's Combination)": "0.017420572"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Tonnage, Dive support vessel", "ATE": "1.204282864", "p-value (Stouffer's Combination)": "0.018494788"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Power, Dive support vessel", "ATE": "1.408617804", "p-value (Stouffer's Combination)": "0.007347746"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Weekday, Dive support vessel", "ATE": "1.187751508", "p-value (Stouffer's Combination)": "0.008762525"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Month_sin, Dive support vessel", "ATE": "1.214767821", "p-value (Stouffer's Combination)": "0.007559089"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Time_Period_Code, Dive support vessel", "ATE": "1.217895632", "p-value (Stouffer's Combination)": "0.007429628"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Latitude, Dive support vessel", "ATE": "1.207496559", "p-value (Stouffer's Combination)": "0.007867753"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Longitude, Dive support vessel", "ATE": "1.22185047", "p-value (Stouffer's Combination)": "0.007268736"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Vessel number, Dive support vessel", "ATE": "0.996344925", "p-value (Stouffer's Combination)": "0.02314771"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Length, Dive support vessel", "ATE": "1.216892129", "p-value (Stouffer's Combination)": "0.007470949"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Breadth, Dive support vessel", "ATE": "1.232784278", "p-value (Stouffer's Combination)": "0.0068398"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Draft, Dive support vessel", "ATE": "1.218603114", "p-value (Stouffer's Combination)": "0.007400618"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Wind, Dive support vessel", "ATE": "1.192985807", "p-value (Stouffer's Combination)": "0.008517033"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Visibility, Dive support vessel", "ATE": "1.233405546", "p-value (Stouffer's Combination)": "0.006816113"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Tonnage, Dive support vessel", "ATE": "1.209625787", "p-value (Stouffer's Combination)": "0.00777624"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Year, Power, Dive support vessel", "ATE": "1.415062848", "p-value (Stouffer's Combination)": "0.002326486"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Month_sin, Dive support vessel", "ATE": "1.187043569", "p-value (Stouffer's Combination)": "0.008796199"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Time_Period_Code, Dive support vessel", "ATE": "1.190266432", "p-value (Stouffer's Combination)": "0.008643809"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Latitude, Dive support vessel", "ATE": "1.181497761", "p-value (Stouffer's Combination)": "0.009063944"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Longitude, Dive support vessel", "ATE": "1.191372467", "p-value (Stouffer's Combination)": "0.008592048"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Vessel number, Dive support vessel", "ATE": "0.973790183", "p-value (Stouffer's Combination)": "0.025732597"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Length, Dive support vessel", "ATE": "1.193222805", "p-value (Stouffer's Combination)": "0.008506062"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Breadth, Dive support vessel", "ATE": "1.215461912", "p-value (Stouffer's Combination)": "0.00753019"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Draft, Dive support vessel", "ATE": "1.195161416", "p-value (Stouffer's Combination)": "0.008416784"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Wind, Dive support vessel", "ATE": "1.168269425", "p-value (Stouffer's Combination)": "0.009731588"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Visibility, Dive support vessel", "ATE": "1.195383078", "p-value (Stouffer's Combination)": "0.008406629"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Tonnage, Dive support vessel", "ATE": "1.181123704", "p-value (Stouffer's Combination)": "0.009082258"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Weekday, Power, Dive support vessel", "ATE": "1.380702626", "p-value (Stouffer's Combination)": "0.002877661"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Time_Period_Code, Dive support vessel", "ATE": "1.21392926", "p-value (Stouffer's Combination)": "0.007594133"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Latitude, Dive support vessel", "ATE": "1.206446918", "p-value (Stouffer's Combination)": "0.007913214"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Longitude, Dive support vessel", "ATE": "1.219213775", "p-value (Stouffer's Combination)": "0.007375658"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Vessel number, Dive support vessel", "ATE": "0.988730239", "p-value (Stouffer's Combination)": "0.023994802"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Length, Dive support vessel", "ATE": "1.213982504", "p-value (Stouffer's Combination)": "0.007591904"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Breadth, Dive support vessel", "ATE": "1.230849016", "p-value (Stouffer's Combination)": "0.006914052"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Draft, Dive support vessel", "ATE": "1.215199838", "p-value (Stouffer's Combination)": "0.00754109"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Wind, Dive support vessel", "ATE": "1.18967549", "p-value (Stouffer's Combination)": "0.008671577"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Visibility, Dive support vessel", "ATE": "1.221428722", "p-value (Stouffer's Combination)": "0.007285746"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Tonnage, Dive support vessel", "ATE": "1.206457595", "p-value (Stouffer's Combination)": "0.007912751"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Month_sin, Power, Dive support vessel", "ATE": "1.416069617", "p-value (Stouffer's Combination)": "0.002311886"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Latitude, Dive support vessel", "ATE": "1.207482466", "p-value (Stouffer's Combination)": "0.007868362"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Longitude, Dive support vessel", "ATE": "1.221930214", "p-value (Stouffer's Combination)": "0.007265523"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Vessel number, Dive support vessel", "ATE": "0.999023968", "p-value (Stouffer's Combination)": "0.022855732"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Length, Dive support vessel", "ATE": "1.21829267", "p-value (Stouffer's Combination)": "0.007413335"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Breadth, Dive support vessel", "ATE": "1.231716925", "p-value (Stouffer's Combination)": "0.006880664"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Draft, Dive support vessel", "ATE": "1.219875362", "p-value (Stouffer's Combination)": "0.0073487"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Wind, Dive support vessel", "ATE": "1.198772388", "p-value (Stouffer's Combination)": "0.008252682"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Visibility, Dive support vessel", "ATE": "1.220649306", "p-value (Stouffer's Combination)": "0.007317274"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Tonnage, Dive support vessel", "ATE": "1.206963589", "p-value (Stouffer's Combination)": "0.007890808"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Time_Period_Code, Power, Dive support vessel", "ATE": "1.416818538", "p-value (Stouffer's Combination)": "0.002301078"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Longitude, Dive support vessel", "ATE": "1.212246765", "p-value (Stouffer's Combination)": "0.007664878"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Vessel number, Dive support vessel", "ATE": "0.974611924", "p-value (Stouffer's Combination)": "0.025634349"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Length, Dive support vessel", "ATE": "1.207663011", "p-value (Stouffer's Combination)": "0.007860565"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Breadth, Dive support vessel", "ATE": "1.221899175", "p-value (Stouffer's Combination)": "0.007266774"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Draft, Dive support vessel", "ATE": "1.205987827", "p-value (Stouffer's Combination)": "0.007933171"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Wind, Dive support vessel", "ATE": "1.186272361", "p-value (Stouffer's Combination)": "0.008833012"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Visibility, Dive support vessel", "ATE": "1.214940008", "p-value (Stouffer's Combination)": "0.007551911"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Tonnage, Dive support vessel", "ATE": "1.200776332", "p-value (Stouffer's Combination)": "0.008162829"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Latitude, Power, Dive support vessel", "ATE": "1.406771092", "p-value (Stouffer's Combination)": "0.002449948"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Longitude, Vessel number, Dive support vessel", "ATE": "1.000483775", "p-value (Stouffer's Combination)": "0.022697944"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Longitude, Length, Dive support vessel", "ATE": "1.222651432", "p-value (Stouffer's Combination)": "0.007236527"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Longitude, Breadth, Dive support vessel", "ATE": "1.23746601", "p-value (Stouffer's Combination)": "0.006663077"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Longitude, Draft, Dive support vessel", "ATE": "1.224466073", "p-value (Stouffer's Combination)": "0.007164022"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Longitude, Wind, Dive support vessel", "ATE": "1.19696561", "p-value (Stouffer's Combination)": "0.008334437"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Longitude, Visibility, Dive support vessel", "ATE": "1.229953045", "p-value (Stouffer's Combination)": "0.006948669"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Longitude, Tonnage, Dive support vessel", "ATE": "1.213878571", "p-value (Stouffer's Combination)": "0.007596256"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Longitude, Power, Dive support vessel", "ATE": "1.414911847", "p-value (Stouffer's Combination)": "0.002328683"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Vessel number, Length, Dive support vessel", "ATE": "0.995577639", "p-value (Stouffer's Combination)": "0.023231909"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Vessel number, Breadth, Dive support vessel", "ATE": "1.005048012", "p-value (Stouffer's Combination)": "0.022210513"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Vessel number, Draft, Dive support vessel", "ATE": "0.993308563", "p-value (Stouffer's Combination)": "0.023482421"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Vessel number, Wind, Dive support vessel", "ATE": "0.954218697", "p-value (Stouffer's Combination)": "0.028167354"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Vessel number, Visibility, Dive support vessel", "ATE": "0.99560658", "p-value (Stouffer's Combination)": "0.023228729"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Vessel number, Tonnage, Dive support vessel", "ATE": "0.977360601", "p-value (Stouffer's Combination)": "0.025307993"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Vessel number, Power, Dive support vessel", "ATE": "1.187293679", "p-value (Stouffer's Combination)": "0.008784289"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Length, Breadth, Dive support vessel", "ATE": "1.228098737", "p-value (Stouffer's Combination)": "0.007020799"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Length, Draft, Dive support vessel", "ATE": "1.214672962", "p-value (Stouffer's Combination)": "0.007563046"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Length, Wind, Dive support vessel", "ATE": "1.195448828", "p-value (Stouffer's Combination)": "0.008403619"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Length, Visibility, Dive support vessel", "ATE": "1.226773087", "p-value (Stouffer's Combination)": "0.007072769"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Length, Tonnage, Dive support vessel", "ATE": "1.211385902", "p-value (Stouffer's Combination)": "0.007701299"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Length, Power, Dive support vessel", "ATE": "1.412213966", "p-value (Stouffer's Combination)": "0.002368255"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Breadth, Draft, Dive support vessel", "ATE": "1.235493865", "p-value (Stouffer's Combination)": "0.006737022"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Breadth, Wind, Dive support vessel", "ATE": "1.211929126", "p-value (Stouffer's Combination)": "0.007678299"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Breadth, Visibility, Dive support vessel", "ATE": "1.248153951", "p-value (Stouffer's Combination)": "0.006274681"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Breadth, Tonnage, Dive support vessel", "ATE": "1.242045267", "p-value (Stouffer's Combination)": "0.006494139"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Breadth, Power, Dive support vessel", "ATE": "1.427130433", "p-value (Stouffer's Combination)": "0.002156855"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Draft, Wind, Dive support vessel", "ATE": "1.197843199", "p-value (Stouffer's Combination)": "0.008294638"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Draft, Visibility, Dive support vessel", "ATE": "1.229566612", "p-value (Stouffer's Combination)": "0.006963646"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Draft, Tonnage, Dive support vessel", "ATE": "1.212740979", "p-value (Stouffer's Combination)": "0.007644038"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Draft, Power, Dive support vessel", "ATE": "1.413581382", "p-value (Stouffer's Combination)": "0.002348123"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Wind, Visibility, Dive support vessel", "ATE": "1.195630606", "p-value (Stouffer's Combination)": "0.008395301"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Wind, Tonnage, Dive support vessel", "ATE": "1.185434911", "p-value (Stouffer's Combination)": "0.00887314"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Wind, Power, Dive support vessel", "ATE": "1.385550357", "p-value (Stouffer's Combination)": "0.002793357"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Visibility, Tonnage, Dive support vessel", "ATE": "1.216176976", "p-value (Stouffer's Combination)": "0.00750052"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Visibility, Power, Dive support vessel", "ATE": "1.420177529", "p-value (Stouffer's Combination)": "0.002253167"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "IS", "Attribute_Combination": " Tonnage, Power, Dive support vessel", "ATE": "1.409107089", "p-value (Stouffer's Combination)": "0.002414579"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Dive support vessel", "ATE": "1.52", "p-value (Stouffer's Combination)": "0.015793252"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Dive support vessel", "ATE": "1.555217678", "p-value (Stouffer's Combination)": "0.003533017"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Dive support vessel", "ATE": "1.555688928", "p-value (Stouffer's Combination)": "0.003524375"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Dive support vessel", "ATE": "1.548043406", "p-value (Stouffer's Combination)": "0.003666948"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Dive support vessel", "ATE": "1.538414489", "p-value (Stouffer's Combination)": "0.003853859"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Dive support vessel", "ATE": "1.512616086", "p-value (Stouffer's Combination)": "0.004397418"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Dive support vessel", "ATE": "1.541143007", "p-value (Stouffer's Combination)": "0.003800046"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Vessel number, Dive support vessel", "ATE": "1.25660982", "p-value (Stouffer's Combination)": "0.014758497"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Length, Dive support vessel", "ATE": "1.530942923", "p-value (Stouffer's Combination)": "0.004004728"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Breadth, Dive support vessel", "ATE": "1.572964635", "p-value (Stouffer's Combination)": "0.003220389"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Draft, Dive support vessel", "ATE": "1.525312188", "p-value (Stouffer's Combination)": "0.004121898"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Wind, Dive support vessel", "ATE": "1.511678352", "p-value (Stouffer's Combination)": "0.004418406"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Visibility, Dive support vessel", "ATE": "1.520086998", "p-value (Stouffer's Combination)": "0.004233363"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Tonnage, Dive support vessel", "ATE": "1.519320605", "p-value (Stouffer's Combination)": "0.004249937"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Power, Dive support vessel", "ATE": "1.525211823", "p-value (Stouffer's Combination)": "0.004124014"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Power, Dredging Vessel", "ATE": "1.023502104", "p-value (Stouffer's Combination)": "0.038134437"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Weekday, Dive support vessel", "ATE": "1.596847533", "p-value (Stouffer's Combination)": "0.000702322"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Month_sin, Dive support vessel", "ATE": "1.579332163", "p-value (Stouffer's Combination)": "0.00079247"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Month_sin, Dredging Vessel", "ATE": "0.927606736", "p-value (Stouffer's Combination)": "0.031782874"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Time_Period_Code, Dive support vessel", "ATE": "1.576751937", "p-value (Stouffer's Combination)": "0.000806615"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Latitude, Dive support vessel", "ATE": "1.542152234", "p-value (Stouffer's Combination)": "0.001020143"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Longitude, Dive support vessel", "ATE": "1.573480283", "p-value (Stouffer's Combination)": "0.000824886"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Vessel number, Dive support vessel", "ATE": "1.283571567", "p-value (Stouffer's Combination)": "0.005127014"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Length, Dive support vessel", "ATE": "1.559802173", "p-value (Stouffer's Combination)": "0.000905471"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Breadth, Dive support vessel", "ATE": "1.600787536", "p-value (Stouffer's Combination)": "0.000683392"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Breadth, Dredging Vessel", "ATE": "0.931521964", "p-value (Stouffer's Combination)": "0.031228043"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Draft, Dive support vessel", "ATE": "1.550482655", "p-value (Stouffer's Combination)": "0.000964454"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Wind, Dive support vessel", "ATE": "1.543356662", "p-value (Stouffer's Combination)": "0.001011913"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Visibility, Dive support vessel", "ATE": "1.536275221", "p-value (Stouffer's Combination)": "0.00106119"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Tonnage, Dive support vessel", "ATE": "1.554214518", "p-value (Stouffer's Combination)": "0.000940424"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Power, Dive support vessel", "ATE": "1.557894445", "p-value (Stouffer's Combination)": "0.000917268"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Year, Power, Dredging Vessel", "ATE": "1.097265335", "p-value (Stouffer's Combination)": "0.014098641"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Month_sin, Dive support vessel", "ATE": "1.583699083", "p-value (Stouffer's Combination)": "0.000769048"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Time_Period_Code, Dive support vessel", "ATE": "1.58208951", "p-value (Stouffer's Combination)": "0.000777606"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Latitude, Dive support vessel", "ATE": "1.549644652", "p-value (Stouffer's Combination)": "0.000969927"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Longitude, Dive support vessel", "ATE": "1.582118818", "p-value (Stouffer's Combination)": "0.000777449"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Vessel number, Dive support vessel", "ATE": "1.288755519", "p-value (Stouffer's Combination)": "0.004975735"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Length, Dive support vessel", "ATE": "1.563613412", "p-value (Stouffer's Combination)": "0.000882319"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Breadth, Dive support vessel", "ATE": "1.600834295", "p-value (Stouffer's Combination)": "0.00068317"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Draft, Dive support vessel", "ATE": "1.558767395", "p-value (Stouffer's Combination)": "0.000911852"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Wind, Dive support vessel", "ATE": "1.544266588", "p-value (Stouffer's Combination)": "0.001005736"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Visibility, Dive support vessel", "ATE": "1.556365866", "p-value (Stouffer's Combination)": "0.000926822"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Tonnage, Dive support vessel", "ATE": "1.555287226", "p-value (Stouffer's Combination)": "0.000933619"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Power, Dive support vessel", "ATE": "1.56675742", "p-value (Stouffer's Combination)": "0.000863631"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Weekday, Power, Dredging Vessel", "ATE": "1.017385955", "p-value (Stouffer's Combination)": "0.020936914"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Time_Period_Code, Dive support vessel", "ATE": "1.568331123", "p-value (Stouffer's Combination)": "0.000854414"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Latitude, Dive support vessel", "ATE": "1.541350904", "p-value (Stouffer's Combination)": "0.001025653"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Longitude, Dive support vessel", "ATE": "1.567811385", "p-value (Stouffer's Combination)": "0.000857448"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Vessel number, Dive support vessel", "ATE": "1.296131082", "p-value (Stouffer's Combination)": "0.004767354"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Length, Dive support vessel", "ATE": "1.551014174", "p-value (Stouffer's Combination)": "0.000960998"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Breadth, Dive support vessel", "ATE": "1.597478645", "p-value (Stouffer's Combination)": "0.000699258"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Breadth, Dredging Vessel", "ATE": "0.921824405", "p-value (Stouffer's Combination)": "0.032617169"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Draft, Dive support vessel", "ATE": "1.533657454", "p-value (Stouffer's Combination)": "0.001079956"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Wind, Dive support vessel", "ATE": "1.543736526", "p-value (Stouffer's Combination)": "0.00100933"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Visibility, Dive support vessel", "ATE": "1.545747532", "p-value (Stouffer's Combination)": "0.000995756"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Tonnage, Dive support vessel", "ATE": "1.547989663", "p-value (Stouffer's Combination)": "0.00098082"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Power, Dive support vessel", "ATE": "1.565537667", "p-value (Stouffer's Combination)": "0.000870837"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Month_sin, Power, Dredging Vessel", "ATE": "1.062695241", "p-value (Stouffer's Combination)": "0.016777022"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Latitude, Dive support vessel", "ATE": "1.531129375", "p-value (Stouffer's Combination)": "0.001098367"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Longitude, Dive support vessel", "ATE": "1.561954051", "p-value (Stouffer's Combination)": "0.000892331"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Vessel number, Dive support vessel", "ATE": "1.285355813", "p-value (Stouffer's Combination)": "0.00507449"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Length, Dive support vessel", "ATE": "1.554107436", "p-value (Stouffer's Combination)": "0.000941106"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Breadth, Dive support vessel", "ATE": "1.59169053", "p-value (Stouffer's Combination)": "0.00072783"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Draft, Dive support vessel", "ATE": "1.546930427", "p-value (Stouffer's Combination)": "0.000987851"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Wind, Dive support vessel", "ATE": "1.544865923", "p-value (Stouffer's Combination)": "0.001001686"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Visibility, Dive support vessel", "ATE": "1.539699", "p-value (Stouffer's Combination)": "0.001037097"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Tonnage, Dive support vessel", "ATE": "1.536711012", "p-value (Stouffer's Combination)": "0.001058095"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Power, Dive support vessel", "ATE": "1.552145287", "p-value (Stouffer's Combination)": "0.00095368"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Time_Period_Code, Power, Dredging Vessel", "ATE": "1.025915761", "p-value (Stouffer's Combination)": "0.020093019"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Longitude, Dive support vessel", "ATE": "1.529315704", "p-value (Stouffer's Combination)": "0.001111753"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Vessel number, Dive support vessel", "ATE": "1.22170878", "p-value (Stouffer's Combination)": "0.007274447"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Length, Dive support vessel", "ATE": "1.519093745", "p-value (Stouffer's Combination)": "0.001190029"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Breadth, Dive support vessel", "ATE": "1.555431827", "p-value (Stouffer's Combination)": "0.000932705"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Draft, Dive support vessel", "ATE": "1.500741702", "p-value (Stouffer's Combination)": "0.001343338"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Wind, Dive support vessel", "ATE": "1.512317986", "p-value (Stouffer's Combination)": "0.001244663"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Visibility, Dive support vessel", "ATE": "1.513257404", "p-value (Stouffer's Combination)": "0.001236954"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Tonnage, Dive support vessel", "ATE": "1.512215093", "p-value (Stouffer's Combination)": "0.00124551"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Power, Dive support vessel", "ATE": "1.519704456", "p-value (Stouffer's Combination)": "0.001185214"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Latitude, Power, Dredging Vessel", "ATE": "1.017294276", "p-value (Stouffer's Combination)": "0.020946145"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Vessel number, Dive support vessel", "ATE": "1.275808306", "p-value (Stouffer's Combination)": "0.005361222"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Length, Dive support vessel", "ATE": "1.548607543", "p-value (Stouffer's Combination)": "0.00097674"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Breadth, Dive support vessel", "ATE": "1.590769695", "p-value (Stouffer's Combination)": "0.000732473"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Draft, Dive support vessel", "ATE": "1.545514911", "p-value (Stouffer's Combination)": "0.000997318"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Wind, Dive support vessel", "ATE": "1.532577665", "p-value (Stouffer's Combination)": "0.001087785"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Visibility, Dive support vessel", "ATE": "1.53692578", "p-value (Stouffer's Combination)": "0.001056573"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Tonnage, Dive support vessel", "ATE": "1.540125041", "p-value (Stouffer's Combination)": "0.001034134"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Power, Dive support vessel", "ATE": "1.542110666", "p-value (Stouffer's Combination)": "0.001020429"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Longitude, Power, Dredging Vessel", "ATE": "1.037035221", "p-value (Stouffer's Combination)": "0.019036385"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Vessel number, Length, Dive support vessel", "ATE": "1.267253836", "p-value (Stouffer's Combination)": "0.005630273"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Vessel number, Breadth, Dive support vessel", "ATE": "1.310392571", "p-value (Stouffer's Combination)": "0.004386377"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Vessel number, Draft, Dive support vessel", "ATE": "1.25707704", "p-value (Stouffer's Combination)": "0.005965915"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Vessel number, Wind, Dive support vessel", "ATE": "1.234167584", "p-value (Stouffer's Combination)": "0.006787158"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Vessel number, Visibility, Dive support vessel", "ATE": "1.268103721", "p-value (Stouffer's Combination)": "0.005603017"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Vessel number, Tonnage, Dive support vessel", "ATE": "1.248601596", "p-value (Stouffer's Combination)": "0.00625886"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Vessel number, Power, Dive support vessel", "ATE": "1.263572385", "p-value (Stouffer's Combination)": "0.005749705"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Length, Breadth, Dive support vessel", "ATE": "1.572620072", "p-value (Stouffer's Combination)": "0.000829753"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Length, Draft, Dive support vessel", "ATE": "1.530963498", "p-value (Stouffer's Combination)": "0.001099585"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Length, Wind, Dive support vessel", "ATE": "1.52358853", "p-value (Stouffer's Combination)": "0.001155008"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Length, Visibility, Dive support vessel", "ATE": "1.520954453", "p-value (Stouffer's Combination)": "0.001175415"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Length, Tonnage, Dive support vessel", "ATE": "1.53021869", "p-value (Stouffer's Combination)": "0.00110507"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Length, Power, Dive support vessel", "ATE": "1.532007406", "p-value (Stouffer's Combination)": "0.00109194"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Length, Power, Dredging Vessel", "ATE": "1.029870171", "p-value (Stouffer's Combination)": "0.019711685"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Breadth, Draft, Dive support vessel", "ATE": "1.579235472", "p-value (Stouffer's Combination)": "0.000792996"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Breadth, Wind, Dive support vessel", "ATE": "1.561061425", "p-value (Stouffer's Combination)": "0.00089776"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Breadth, Visibility, Dive support vessel", "ATE": "1.553271227", "p-value (Stouffer's Combination)": "0.000946446"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Breadth, Tonnage, Dive support vessel", "ATE": "1.603010643", "p-value (Stouffer's Combination)": "0.00067292"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Breadth, Power, Dive support vessel", "ATE": "1.564303958", "p-value (Stouffer's Combination)": "0.000878183"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Breadth, Power, Dredging Vessel", "ATE": "1.053162814", "p-value (Stouffer's Combination)": "0.017588038"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Draft, Wind, Dive support vessel", "ATE": "1.518884564", "p-value (Stouffer's Combination)": "0.001191682"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Draft, Visibility, Dive support vessel", "ATE": "1.514764831", "p-value (Stouffer's Combination)": "0.001224674"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Draft, Tonnage, Dive support vessel", "ATE": "1.524040794", "p-value (Stouffer's Combination)": "0.001151537"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Draft, Power, Dive support vessel", "ATE": "1.529226462", "p-value (Stouffer's Combination)": "0.001112415"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Draft, Power, Dredging Vessel", "ATE": "1.028491004", "p-value (Stouffer's Combination)": "0.019843978"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Wind, Visibility, Dive support vessel", "ATE": "1.519652209", "p-value (Stouffer's Combination)": "0.001185626"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Wind, Tonnage, Dive support vessel", "ATE": "1.511395731", "p-value (Stouffer's Combination)": "0.001252274"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Wind, Power, Dive support vessel", "ATE": "1.51862829", "p-value (Stouffer's Combination)": "0.001193711"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Wind, Power, Dredging Vessel", "ATE": "1.008931775", "p-value (Stouffer's Combination)": "0.021802737"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Visibility, Tonnage, Dive support vessel", "ATE": "1.515845862", "p-value (Stouffer's Combination)": "0.001215937"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Visibility, Power, Dive support vessel", "ATE": "1.528069204", "p-value (Stouffer's Combination)": "0.001121039"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Visibility, Power, Dredging Vessel", "ATE": "1.026417246", "p-value (Stouffer's Combination)": "0.020044316"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Tonnage, Power, Dive support vessel", "ATE": "1.525085183", "p-value (Stouffer's Combination)": "0.001143558"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "OC", "Attribute_Combination": " Tonnage, Power, Dredging Vessel", "ATE": "1.023347455", "p-value (Stouffer's Combination)": "0.020344025"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Dive support vessel", "ATE": "1.168709257", "p-value (Stouffer's Combination)": "0.049185331"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Dive support vessel", "ATE": "1.165827963", "p-value (Stouffer's Combination)": "0.021729413"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Dive support vessel", "ATE": "1.156125978", "p-value (Stouffer's Combination)": "0.02261716"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Dive support vessel", "ATE": "1.18682539", "p-value (Stouffer's Combination)": "0.019908524"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Dive support vessel", "ATE": "1.161513383", "p-value (Stouffer's Combination)": "0.022120502"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Dive support vessel", "ATE": "1.164286542", "p-value (Stouffer's Combination)": "0.021868457"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Dive support vessel", "ATE": "1.173253718", "p-value (Stouffer's Combination)": "0.021069993"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Vessel number, Dive support vessel", "ATE": "0.956249951", "p-value (Stouffer's Combination)": "0.048833222"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Length, Dive support vessel", "ATE": "1.184596259", "p-value (Stouffer's Combination)": "0.02009548"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Breadth, Dive support vessel", "ATE": "1.182562635", "p-value (Stouffer's Combination)": "0.020267335"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Draft, Dive support vessel", "ATE": "1.193934849", "p-value (Stouffer's Combination)": "0.019322089"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Wind, Dive support vessel", "ATE": "1.163490537", "p-value (Stouffer's Combination)": "0.021940554"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Visibility, Dive support vessel", "ATE": "1.16851315", "p-value (Stouffer's Combination)": "0.021488979"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Tonnage, Dive support vessel", "ATE": "1.16960994", "p-value (Stouffer's Combination)": "0.02139142"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Power, Dive support vessel", "ATE": "1.208679668", "p-value (Stouffer's Combination)": "0.018152513"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Weekday, Dive support vessel", "ATE": "1.151925959", "p-value (Stouffer's Combination)": "0.010615479"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Month_sin, Dive support vessel", "ATE": "1.18512517", "p-value (Stouffer's Combination)": "0.008888022"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Time_Period_Code, Dive support vessel", "ATE": "1.159109357", "p-value (Stouffer's Combination)": "0.010218719"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Latitude, Dive support vessel", "ATE": "1.160407566", "p-value (Stouffer's Combination)": "0.010148412"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Longitude, Dive support vessel", "ATE": "1.171582701", "p-value (Stouffer's Combination)": "0.009560452"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Vessel number, Dive support vessel", "ATE": "0.956566124", "p-value (Stouffer's Combination)": "0.027865562"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Length, Dive support vessel", "ATE": "1.185817424", "p-value (Stouffer's Combination)": "0.008854792"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Breadth, Dive support vessel", "ATE": "1.183934426", "p-value (Stouffer's Combination)": "0.008945438"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Draft, Dive support vessel", "ATE": "1.197562673", "p-value (Stouffer's Combination)": "0.008307342"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Wind, Dive support vessel", "ATE": "1.163100099", "p-value (Stouffer's Combination)": "0.010003937"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Visibility, Dive support vessel", "ATE": "1.16582578", "p-value (Stouffer's Combination)": "0.009859515"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Tonnage, Dive support vessel", "ATE": "1.166730116", "p-value (Stouffer's Combination)": "0.009812002"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Year, Power, Dive support vessel", "ATE": "1.207495278", "p-value (Stouffer's Combination)": "0.007867809"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Month_sin, Dive support vessel", "ATE": "1.174243888", "p-value (Stouffer's Combination)": "0.009424909"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Time_Period_Code, Dive support vessel", "ATE": "1.15210934", "p-value (Stouffer's Combination)": "0.010605186"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Latitude, Dive support vessel", "ATE": "1.151974252", "p-value (Stouffer's Combination)": "0.010612767"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Longitude, Dive support vessel", "ATE": "1.159314734", "p-value (Stouffer's Combination)": "0.010207568"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Vessel number, Dive support vessel", "ATE": "0.948061562", "p-value (Stouffer's Combination)": "0.028971883"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Length, Dive support vessel", "ATE": "1.173454651", "p-value (Stouffer's Combination)": "0.009464931"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Breadth, Dive support vessel", "ATE": "1.173736035", "p-value (Stouffer's Combination)": "0.009450645"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Draft, Dive support vessel", "ATE": "1.182794525", "p-value (Stouffer's Combination)": "0.009000707"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Wind, Dive support vessel", "ATE": "1.152869626", "p-value (Stouffer's Combination)": "0.010562603"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Visibility, Dive support vessel", "ATE": "1.155960448", "p-value (Stouffer's Combination)": "0.010391021"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Tonnage, Dive support vessel", "ATE": "1.156697805", "p-value (Stouffer's Combination)": "0.010350449"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Weekday, Power, Dive support vessel", "ATE": "1.192765821", "p-value (Stouffer's Combination)": "0.008527228"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Time_Period_Code, Dive support vessel", "ATE": "1.180507676", "p-value (Stouffer's Combination)": "0.009112488"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Latitude, Dive support vessel", "ATE": "1.182511963", "p-value (Stouffer's Combination)": "0.009014453"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Longitude, Dive support vessel", "ATE": "1.19085137", "p-value (Stouffer's Combination)": "0.008616401"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Vessel number, Dive support vessel", "ATE": "0.972094495", "p-value (Stouffer's Combination)": "0.025936333"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Length, Dive support vessel", "ATE": "1.198093107", "p-value (Stouffer's Combination)": "0.008283336"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Breadth, Dive support vessel", "ATE": "1.197932115", "p-value (Stouffer's Combination)": "0.008290615"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Draft, Dive support vessel", "ATE": "1.205265018", "p-value (Stouffer's Combination)": "0.00796468"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Wind, Dive support vessel", "ATE": "1.183460475", "p-value (Stouffer's Combination)": "0.008968382"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Visibility, Dive support vessel", "ATE": "1.186933118", "p-value (Stouffer's Combination)": "0.008801463"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Tonnage, Dive support vessel", "ATE": "1.187528975", "p-value (Stouffer's Combination)": "0.008773098"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Month_sin, Power, Dive support vessel", "ATE": "1.230365774", "p-value (Stouffer's Combination)": "0.006932703"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Latitude, Dive support vessel", "ATE": "1.156771353", "p-value (Stouffer's Combination)": "0.01034641"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Longitude, Dive support vessel", "ATE": "1.167307057", "p-value (Stouffer's Combination)": "0.009781794"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Vessel number, Dive support vessel", "ATE": "0.956869629", "p-value (Stouffer's Combination)": "0.02782674"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Length, Dive support vessel", "ATE": "1.179701274", "p-value (Stouffer's Combination)": "0.009152194"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Breadth, Dive support vessel", "ATE": "1.176887878", "p-value (Stouffer's Combination)": "0.009291909"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Draft, Dive support vessel", "ATE": "1.188796502", "p-value (Stouffer's Combination)": "0.008713024"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Wind, Dive support vessel", "ATE": "1.166024609", "p-value (Stouffer's Combination)": "0.009849051"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Visibility, Dive support vessel", "ATE": "1.161431483", "p-value (Stouffer's Combination)": "0.010093258"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Tonnage, Dive support vessel", "ATE": "1.162369074", "p-value (Stouffer's Combination)": "0.010042983"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Time_Period_Code, Power, Dive support vessel", "ATE": "1.206263138", "p-value (Stouffer's Combination)": "0.007921198"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Longitude, Dive support vessel", "ATE": "1.167714876", "p-value (Stouffer's Combination)": "0.009760491"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Vessel number, Dive support vessel", "ATE": "0.942998376", "p-value (Stouffer's Combination)": "0.029647696"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Length, Dive support vessel", "ATE": "1.179147084", "p-value (Stouffer's Combination)": "0.009179569"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Breadth, Dive support vessel", "ATE": "1.175720853", "p-value (Stouffer's Combination)": "0.00935041"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Draft, Dive support vessel", "ATE": "1.185394851", "p-value (Stouffer's Combination)": "0.008875064"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Wind, Dive support vessel", "ATE": "1.161107547", "p-value (Stouffer's Combination)": "0.010110678"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Visibility, Dive support vessel", "ATE": "1.163907833", "p-value (Stouffer's Combination)": "0.009960947"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Tonnage, Dive support vessel", "ATE": "1.165268551", "p-value (Stouffer's Combination)": "0.009888891"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Latitude, Power, Dive support vessel", "ATE": "1.20352736", "p-value (Stouffer's Combination)": "0.00804088"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Vessel number, Dive support vessel", "ATE": "0.967263136", "p-value (Stouffer's Combination)": "0.026524228"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Length, Dive support vessel", "ATE": "1.194739194", "p-value (Stouffer's Combination)": "0.008436158"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Breadth, Dive support vessel", "ATE": "1.189330992", "p-value (Stouffer's Combination)": "0.0086878"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Draft, Dive support vessel", "ATE": "1.198829439", "p-value (Stouffer's Combination)": "0.008250112"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Wind, Dive support vessel", "ATE": "1.168007116", "p-value (Stouffer's Combination)": "0.00974525"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Visibility, Dive support vessel", "ATE": "1.173372044", "p-value (Stouffer's Combination)": "0.009469129"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Tonnage, Dive support vessel", "ATE": "1.175638342", "p-value (Stouffer's Combination)": "0.009354558"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Longitude, Power, Dive support vessel", "ATE": "1.211262172", "p-value (Stouffer's Combination)": "0.007706546"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Vessel number, Length, Dive support vessel", "ATE": "0.977453587", "p-value (Stouffer's Combination)": "0.025297014"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Vessel number, Breadth, Dive support vessel", "ATE": "0.962594582", "p-value (Stouffer's Combination)": "0.027102849"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Vessel number, Draft, Dive support vessel", "ATE": "0.982655739", "p-value (Stouffer's Combination)": "0.024689099"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Vessel number, Wind, Dive support vessel", "ATE": "0.938095813", "p-value (Stouffer's Combination)": "0.030314486"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Vessel number, Visibility, Dive support vessel", "ATE": "0.955139857", "p-value (Stouffer's Combination)": "0.028048604"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Vessel number, Tonnage, Dive support vessel", "ATE": "0.944020477", "p-value (Stouffer's Combination)": "0.029510226"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Vessel number, Power, Dive support vessel", "ATE": "1.003656849", "p-value (Stouffer's Combination)": "0.022358136"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Length, Breadth, Dive support vessel", "ATE": "1.182142306", "p-value (Stouffer's Combination)": "0.009032464"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Length, Draft, Dive support vessel", "ATE": "1.190118162", "p-value (Stouffer's Combination)": "0.008650769"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Length, Wind, Dive support vessel", "ATE": "1.178017482", "p-value (Stouffer's Combination)": "0.00923559"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Length, Visibility, Dive support vessel", "ATE": "1.184734708", "p-value (Stouffer's Combination)": "0.008906814"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Length, Tonnage, Dive support vessel", "ATE": "1.191273938", "p-value (Stouffer's Combination)": "0.008596648"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Length, Power, Dive support vessel", "ATE": "1.210966204", "p-value (Stouffer's Combination)": "0.007719111"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Breadth, Draft, Dive support vessel", "ATE": "1.188294528", "p-value (Stouffer's Combination)": "0.008736771"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Breadth, Wind, Dive support vessel", "ATE": "1.178530788", "p-value (Stouffer's Combination)": "0.009210096"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Breadth, Visibility, Dive support vessel", "ATE": "1.182788671", "p-value (Stouffer's Combination)": "0.009000991"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Breadth, Tonnage, Dive support vessel", "ATE": "1.201333835", "p-value (Stouffer's Combination)": "0.008137986"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Breadth, Power, Dive support vessel", "ATE": "1.205055141", "p-value (Stouffer's Combination)": "0.00797385"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Draft, Wind, Dive support vessel", "ATE": "1.186387695", "p-value (Stouffer's Combination)": "0.008827498"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Draft, Visibility, Dive support vessel", "ATE": "1.194073536", "p-value (Stouffer's Combination)": "0.008466782"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Draft, Tonnage, Dive support vessel", "ATE": "1.19562304", "p-value (Stouffer's Combination)": "0.008395647"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Draft, Power, Dive support vessel", "ATE": "1.220306901", "p-value (Stouffer's Combination)": "0.007331163"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Wind, Visibility, Dive support vessel", "ATE": "1.162693425", "p-value (Stouffer's Combination)": "0.010025642"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Wind, Tonnage, Dive support vessel", "ATE": "1.169415834", "p-value (Stouffer's Combination)": "0.009672074"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Wind, Power, Dive support vessel", "ATE": "1.198115848", "p-value (Stouffer's Combination)": "0.008282308"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Visibility, Tonnage, Dive support vessel", "ATE": "1.169512796", "p-value (Stouffer's Combination)": "0.009667055"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Visibility, Power, Dive support vessel", "ATE": "1.208493063", "p-value (Stouffer's Combination)": "0.007824807"}
+{"Accident_Type": "Fire/Explosion", "HFACS-S": "TE", "Attribute_Combination": " Tonnage, Power, Dive support vessel", "ATE": "1.219161803", "p-value (Stouffer's Combination)": "0.007377779"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin", "ATE": "0.95360182", "p-value (Stouffer's Combination)": "0.049299207"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Tanker", "ATE": "1.001631086", "p-value (Stouffer's Combination)": "0.041381392"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Tanker", "ATE": "0.988475585", "p-value (Stouffer's Combination)": "0.043440048"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code", "ATE": "0.963905496", "p-value (Stouffer's Combination)": "0.047505869"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Length", "ATE": "0.961133453", "p-value (Stouffer's Combination)": "0.04798312"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Breadth", "ATE": "0.958750698", "p-value (Stouffer's Combination)": "0.04839641"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Draft", "ATE": "0.959519154", "p-value (Stouffer's Combination)": "0.048262811"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Wind", "ATE": "0.956448519", "p-value (Stouffer's Combination)": "0.048798423"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Visibility", "ATE": "0.968655353", "p-value (Stouffer's Combination)": "0.046696952"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Tonnage", "ATE": "0.961068558", "p-value (Stouffer's Combination)": "0.047994339"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Power", "ATE": "0.968772645", "p-value (Stouffer's Combination)": "0.046677118"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Tanker", "ATE": "1.02482717", "p-value (Stouffer's Combination)": "0.037944591"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Power", "ATE": "0.954013084", "p-value (Stouffer's Combination)": "0.049226606"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Tanker", "ATE": "1.012290085", "p-value (Stouffer's Combination)": "0.039772015"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Tanker", "ATE": "0.954187308", "p-value (Stouffer's Combination)": "0.049195876"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Longitude, Tanker", "ATE": "0.967589269", "p-value (Stouffer's Combination)": "0.046877542"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Vessel number, Tanker", "ATE": "0.969545654", "p-value (Stouffer's Combination)": "0.046546568"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Tanker", "ATE": "1.005524321", "p-value (Stouffer's Combination)": "0.040787549"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Tanker", "ATE": "0.982623091", "p-value (Stouffer's Combination)": "0.044382079"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Tanker", "ATE": "1.004424306", "p-value (Stouffer's Combination)": "0.040954631"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Wind, Tanker", "ATE": "0.996443916", "p-value (Stouffer's Combination)": "0.042183468"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Visibility, Tanker", "ATE": "1.013336566", "p-value (Stouffer's Combination)": "0.039616791"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Tonnage, Tanker", "ATE": "1.015916429", "p-value (Stouffer's Combination)": "0.039236225"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Power, Tanker", "ATE": "1.01429525", "p-value (Stouffer's Combination)": "0.039475023"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Weekday, Month_sin", "ATE": "0.934162976", "p-value (Stouffer's Combination)": "0.030858326"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Weekday, Time_Period_Code", "ATE": "0.916373183", "p-value (Stouffer's Combination)": "0.033420149"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Weekday, Visibility", "ATE": "0.921960633", "p-value (Stouffer's Combination)": "0.032597308"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Weekday, Power", "ATE": "0.926939538", "p-value (Stouffer's Combination)": "0.031878231"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Weekday, Tanker", "ATE": "0.97683448", "p-value (Stouffer's Combination)": "0.02537019"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin, Time_Period_Code", "ATE": "0.955107961", "p-value (Stouffer's Combination)": "0.028052709"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin, Length", "ATE": "0.952854282", "p-value (Stouffer's Combination)": "0.028344014"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin, Breadth", "ATE": "0.951103428", "p-value (Stouffer's Combination)": "0.028572058"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin, Draft", "ATE": "0.952179132", "p-value (Stouffer's Combination)": "0.02843177"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin, Wind", "ATE": "0.948969433", "p-value (Stouffer's Combination)": "0.028852068"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin, Visibility", "ATE": "0.964882872", "p-value (Stouffer's Combination)": "0.026817935"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin, Tonnage", "ATE": "0.952007238", "p-value (Stouffer's Combination)": "0.028454149"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin, Power", "ATE": "0.965347357", "p-value (Stouffer's Combination)": "0.026760409"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Month_sin, Tanker", "ATE": "1.016146999", "p-value (Stouffer's Combination)": "0.021061951"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Time_Period_Code, Length", "ATE": "0.933956866", "p-value (Stouffer's Combination)": "0.030887048"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Time_Period_Code, Breadth", "ATE": "0.933536983", "p-value (Stouffer's Combination)": "0.03094563"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Time_Period_Code, Draft", "ATE": "0.932804105", "p-value (Stouffer's Combination)": "0.0310481"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Time_Period_Code, Wind", "ATE": "0.930969976", "p-value (Stouffer's Combination)": "0.031305777"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Time_Period_Code, Visibility", "ATE": "0.944889947", "p-value (Stouffer's Combination)": "0.029393702"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Time_Period_Code, Tonnage", "ATE": "0.933181374", "p-value (Stouffer's Combination)": "0.030995316"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Time_Period_Code, Power", "ATE": "0.951860301", "p-value (Stouffer's Combination)": "0.028473291"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Time_Period_Code, Tanker", "ATE": "1.004910168", "p-value (Stouffer's Combination)": "0.022225104"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Latitude, Tanker", "ATE": "0.935982775", "p-value (Stouffer's Combination)": "0.030605685"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Longitude, Tanker", "ATE": "0.955482969", "p-value (Stouffer's Combination)": "0.028004479"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Vessel number, Tanker", "ATE": "0.956497731", "p-value (Stouffer's Combination)": "0.027874317"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Length, Breadth", "ATE": "0.931844598", "p-value (Stouffer's Combination)": "0.031182682"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Length, Draft", "ATE": "0.931386227", "p-value (Stouffer's Combination)": "0.031247144"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Length, Wind", "ATE": "0.927109734", "p-value (Stouffer's Combination)": "0.031853884"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Length, Visibility", "ATE": "0.942436028", "p-value (Stouffer's Combination)": "0.029723557"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Length, Tonnage", "ATE": "0.92980497", "p-value (Stouffer's Combination)": "0.031470366"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Length, Power", "ATE": "0.940606461", "p-value (Stouffer's Combination)": "0.02997148"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Length, Tanker", "ATE": "0.998472139", "p-value (Stouffer's Combination)": "0.022915618"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Breadth, Draft", "ATE": "0.933297467", "p-value (Stouffer's Combination)": "0.030979088"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Breadth, Wind", "ATE": "0.927876527", "p-value (Stouffer's Combination)": "0.031744382"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Breadth, Visibility", "ATE": "0.940578379", "p-value (Stouffer's Combination)": "0.029975299"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Breadth, Tonnage", "ATE": "0.921817793", "p-value (Stouffer's Combination)": "0.032618133"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Breadth, Power", "ATE": "0.941226624", "p-value (Stouffer's Combination)": "0.029887251"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Breadth, Tanker", "ATE": "0.976257646", "p-value (Stouffer's Combination)": "0.025438529"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Draft, Wind", "ATE": "0.926117872", "p-value (Stouffer's Combination)": "0.031995989"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Draft, Visibility", "ATE": "0.941714922", "p-value (Stouffer's Combination)": "0.02982107"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Draft, Tonnage", "ATE": "0.927491405", "p-value (Stouffer's Combination)": "0.031799341"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Draft, Power", "ATE": "0.939024661", "p-value (Stouffer's Combination)": "0.030187209"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Draft, Tanker", "ATE": "0.998276928", "p-value (Stouffer's Combination)": "0.022936835"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Wind, Visibility", "ATE": "0.938527395", "p-value (Stouffer's Combination)": "0.030255292"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Wind, Tonnage", "ATE": "0.926160518", "p-value (Stouffer's Combination)": "0.031989868"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Wind, Power", "ATE": "0.937954968", "p-value (Stouffer's Combination)": "0.030333824"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Wind, Tanker", "ATE": "0.990494445", "p-value (Stouffer's Combination)": "0.02379626"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Visibility, Tonnage", "ATE": "0.941079348", "p-value (Stouffer's Combination)": "0.029907236"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Visibility, Power", "ATE": "0.945009884", "p-value (Stouffer's Combination)": "0.029377658"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Visibility, Tanker", "ATE": "1.010792599", "p-value (Stouffer's Combination)": "0.021609611"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Tonnage, Power", "ATE": "0.940160053", "p-value (Stouffer's Combination)": "0.030032232"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Tonnage, Tanker", "ATE": "1.008330856", "p-value (Stouffer's Combination)": "0.021865414"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Power, Deck barge", "ATE": "0.940872019", "p-value (Stouffer's Combination)": "0.029935389"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Year, Power, Tanker", "ATE": "1.012311532", "p-value (Stouffer's Combination)": "0.021453042"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Time_Period_Code", "ATE": "0.950213412", "p-value (Stouffer's Combination)": "0.028688565"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Longitude", "ATE": "0.914915833", "p-value (Stouffer's Combination)": "0.033637557"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Length", "ATE": "0.945897635", "p-value (Stouffer's Combination)": "0.029259132"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Breadth", "ATE": "0.943146896", "p-value (Stouffer's Combination)": "0.029627688"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Draft", "ATE": "0.944960326", "p-value (Stouffer's Combination)": "0.029384286"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Wind", "ATE": "0.942720168", "p-value (Stouffer's Combination)": "0.029685206"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Visibility", "ATE": "0.953480891", "p-value (Stouffer's Combination)": "0.028262768"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Tonnage", "ATE": "0.946078509", "p-value (Stouffer's Combination)": "0.029235032"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Power", "ATE": "0.958779842", "p-value (Stouffer's Combination)": "0.027583433"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Month_sin, Tanker", "ATE": "1.00451883", "p-value (Stouffer's Combination)": "0.02226657"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Time_Period_Code, Length", "ATE": "0.927147788", "p-value (Stouffer's Combination)": "0.031848442"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Time_Period_Code, Breadth", "ATE": "0.926001188", "p-value (Stouffer's Combination)": "0.032012741"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Time_Period_Code, Draft", "ATE": "0.925461259", "p-value (Stouffer's Combination)": "0.03209035"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Time_Period_Code, Wind", "ATE": "0.924258145", "p-value (Stouffer's Combination)": "0.032263845"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Time_Period_Code, Visibility", "ATE": "0.933471572", "p-value (Stouffer's Combination)": "0.030954764"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Time_Period_Code, Tonnage", "ATE": "0.927175757", "p-value (Stouffer's Combination)": "0.031844443"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Time_Period_Code, Power", "ATE": "0.944280449", "p-value (Stouffer's Combination)": "0.029475345"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Time_Period_Code, Tanker", "ATE": "0.993821751", "p-value (Stouffer's Combination)": "0.023425566"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Latitude, Tanker", "ATE": "0.934509967", "p-value (Stouffer's Combination)": "0.030810021"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Longitude, Tanker", "ATE": "0.951246362", "p-value (Stouffer's Combination)": "0.028553385"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Vessel number, Tanker", "ATE": "0.945471888", "p-value (Stouffer's Combination)": "0.029315925"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Length, Breadth", "ATE": "0.922800992", "p-value (Stouffer's Combination)": "0.032475009"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Length, Draft", "ATE": "0.922679554", "p-value (Stouffer's Combination)": "0.032492659"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Length, Wind", "ATE": "0.91856202", "p-value (Stouffer's Combination)": "0.033095793"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Length, Visibility", "ATE": "0.928488362", "p-value (Stouffer's Combination)": "0.031657233"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Length, Tonnage", "ATE": "0.922201304", "p-value (Stouffer's Combination)": "0.032562244"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Length, Power", "ATE": "0.931732936", "p-value (Stouffer's Combination)": "0.031198375"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Length, Tanker", "ATE": "0.985090792", "p-value (Stouffer's Combination)": "0.024408782"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Breadth, Draft", "ATE": "0.923695877", "p-value (Stouffer's Combination)": "0.032345192"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Breadth, Wind", "ATE": "0.918866921", "p-value (Stouffer's Combination)": "0.033050817"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Breadth, Visibility", "ATE": "0.926869478", "p-value (Stouffer's Combination)": "0.031888258"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Breadth, Power", "ATE": "0.930938935", "p-value (Stouffer's Combination)": "0.031310154"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Breadth, Tanker", "ATE": "0.961679929", "p-value (Stouffer's Combination)": "0.027217436"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Draft, Wind", "ATE": "0.916796638", "p-value (Stouffer's Combination)": "0.033357196"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Draft, Visibility", "ATE": "0.92778197", "p-value (Stouffer's Combination)": "0.031757869"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Draft, Tonnage", "ATE": "0.919949125", "p-value (Stouffer's Combination)": "0.032891588"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Draft, Power", "ATE": "0.929451722", "p-value (Stouffer's Combination)": "0.031520413"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Draft, Tanker", "ATE": "0.986329488", "p-value (Stouffer's Combination)": "0.024267214"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Wind, Visibility", "ATE": "0.924818422", "p-value (Stouffer's Combination)": "0.032182954"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Wind, Tonnage", "ATE": "0.918579919", "p-value (Stouffer's Combination)": "0.033093151"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Wind, Power", "ATE": "0.92976175", "p-value (Stouffer's Combination)": "0.031476486"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Wind, Tanker", "ATE": "0.978686087", "p-value (Stouffer's Combination)": "0.025151864"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Visibility, Tonnage", "ATE": "0.928128074", "p-value (Stouffer's Combination)": "0.031708528"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Visibility, Power", "ATE": "0.934613952", "p-value (Stouffer's Combination)": "0.030795557"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Visibility, Tanker", "ATE": "0.992818746", "p-value (Stouffer's Combination)": "0.023536795"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Tonnage, Power", "ATE": "0.931985609", "p-value (Stouffer's Combination)": "0.031162873"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Tonnage, Tanker", "ATE": "0.995054569", "p-value (Stouffer's Combination)": "0.023289457"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Power, Deck barge", "ATE": "0.932637194", "p-value (Stouffer's Combination)": "0.031071477"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Weekday, Power, Tanker", "ATE": "1.001188137", "p-value (Stouffer's Combination)": "0.022622139"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Longitude", "ATE": "0.927425313", "p-value (Stouffer's Combination)": "0.03180878"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Vessel number", "ATE": "0.924537984", "p-value (Stouffer's Combination)": "0.032223422"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Length", "ATE": "0.962514438", "p-value (Stouffer's Combination)": "0.027112873"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Breadth", "ATE": "0.960046352", "p-value (Stouffer's Combination)": "0.027423095"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Draft", "ATE": "0.960726209", "p-value (Stouffer's Combination)": "0.027337348"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Wind", "ATE": "0.95848275", "p-value (Stouffer's Combination)": "0.027621157"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Visibility", "ATE": "0.97069607", "p-value (Stouffer's Combination)": "0.026105365"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Tonnage", "ATE": "0.962677767", "p-value (Stouffer's Combination)": "0.027092447"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Power", "ATE": "0.979553175", "p-value (Stouffer's Combination)": "0.025050167"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Deck barge", "ATE": "0.916611601", "p-value (Stouffer's Combination)": "0.033384692"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Time_Period_Code, Tanker", "ATE": "1.027493304", "p-value (Stouffer's Combination)": "0.019940149"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Latitude, Power", "ATE": "0.916743679", "p-value (Stouffer's Combination)": "0.033365063"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Latitude, Tanker", "ATE": "0.970567606", "p-value (Stouffer's Combination)": "0.02612094"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Longitude, Length", "ATE": "0.917913641", "p-value (Stouffer's Combination)": "0.033191603"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Longitude, Breadth", "ATE": "0.921130817", "p-value (Stouffer's Combination)": "0.032718444"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Longitude, Draft", "ATE": "0.92133948", "p-value (Stouffer's Combination)": "0.032687949"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Longitude, Wind", "ATE": "0.920294433", "p-value (Stouffer's Combination)": "0.032840915"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Longitude, Visibility", "ATE": "0.933596474", "p-value (Stouffer's Combination)": "0.030937324"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Longitude, Tonnage", "ATE": "0.925921502", "p-value (Stouffer's Combination)": "0.032024185"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Longitude, Power", "ATE": "0.937118421", "p-value (Stouffer's Combination)": "0.030448894"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Longitude, Tanker", "ATE": "0.982756735", "p-value (Stouffer's Combination)": "0.024677419"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Vessel number, Length", "ATE": "0.920801814", "p-value (Stouffer's Combination)": "0.032766575"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Vessel number, Breadth", "ATE": "0.92020823", "p-value (Stouffer's Combination)": "0.032853559"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Vessel number, Draft", "ATE": "0.91777064", "p-value (Stouffer's Combination)": "0.033212764"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Vessel number, Wind", "ATE": "0.920331843", "p-value (Stouffer's Combination)": "0.032835429"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Vessel number, Visibility", "ATE": "0.9302004", "p-value (Stouffer's Combination)": "0.031414421"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Vessel number, Tonnage", "ATE": "0.920509184", "p-value (Stouffer's Combination)": "0.032809434"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Vessel number, Power", "ATE": "0.932598181", "p-value (Stouffer's Combination)": "0.031076943"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Vessel number, Tanker", "ATE": "0.985373241", "p-value (Stouffer's Combination)": "0.02437644"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Length, Breadth", "ATE": "0.95921251", "p-value (Stouffer's Combination)": "0.027528571"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Length, Draft", "ATE": "0.959446433", "p-value (Stouffer's Combination)": "0.027498947"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Length, Wind", "ATE": "0.954448365", "p-value (Stouffer's Combination)": "0.028137707"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Length, Visibility", "ATE": "0.96744836", "p-value (Stouffer's Combination)": "0.026501485"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Length, Tonnage", "ATE": "0.959379461", "p-value (Stouffer's Combination)": "0.027507425"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Length, Power", "ATE": "0.967682986", "p-value (Stouffer's Combination)": "0.026472701"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Length, Tanker", "ATE": "1.022293091", "p-value (Stouffer's Combination)": "0.020447836"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Breadth, Draft", "ATE": "0.959442493", "p-value (Stouffer's Combination)": "0.027499446"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Breadth, Wind", "ATE": "0.953462246", "p-value (Stouffer's Combination)": "0.028265183"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Breadth, Visibility", "ATE": "0.964336799", "p-value (Stouffer's Combination)": "0.026885698"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Breadth, Tonnage", "ATE": "0.949226802", "p-value (Stouffer's Combination)": "0.028818177"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Breadth, Power", "ATE": "0.965078829", "p-value (Stouffer's Combination)": "0.026793653"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Breadth, Tanker", "ATE": "0.99909024", "p-value (Stouffer's Combination)": "0.022848548"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Draft, Wind", "ATE": "0.952317268", "p-value (Stouffer's Combination)": "0.028413797"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Draft, Visibility", "ATE": "0.966651712", "p-value (Stouffer's Combination)": "0.026599415"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Draft, Tonnage", "ATE": "0.956007215", "p-value (Stouffer's Combination)": "0.027937172"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Draft, Power", "ATE": "0.965083234", "p-value (Stouffer's Combination)": "0.026793107"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Draft, Tanker", "ATE": "1.021927641", "p-value (Stouffer's Combination)": "0.020483923"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Wind, Visibility", "ATE": "0.962568866", "p-value (Stouffer's Combination)": "0.027106065"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Wind, Tonnage", "ATE": "0.954462209", "p-value (Stouffer's Combination)": "0.028135921"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Wind, Power", "ATE": "0.965365115", "p-value (Stouffer's Combination)": "0.026758211"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Wind, Tanker", "ATE": "1.012868652", "p-value (Stouffer's Combination)": "0.021395856"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Visibility, Tonnage", "ATE": "0.967450541", "p-value (Stouffer's Combination)": "0.026501218"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Visibility, Power", "ATE": "0.971939", "p-value (Stouffer's Combination)": "0.025955082"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Visibility, Deck barge", "ATE": "0.928534328", "p-value (Stouffer's Combination)": "0.031650693"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Visibility, Tanker", "ATE": "1.030559372", "p-value (Stouffer's Combination)": "0.019645857"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Tonnage, Power", "ATE": "0.968248787", "p-value (Stouffer's Combination)": "0.026403395"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Tonnage, Tanker", "ATE": "1.031976471", "p-value (Stouffer's Combination)": "0.019511089"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Power, Deck barge", "ATE": "0.968772645", "p-value (Stouffer's Combination)": "0.026339361"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Month_sin, Power, Tanker", "ATE": "1.033488835", "p-value (Stouffer's Combination)": "0.019368129"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Latitude, Tanker", "ATE": "0.956719316", "p-value (Stouffer's Combination)": "0.027845961"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Longitude, Power", "ATE": "0.921488209", "p-value (Stouffer's Combination)": "0.032666227"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Longitude, Tanker", "ATE": "0.969683911", "p-value (Stouffer's Combination)": "0.026228283"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Vessel number, Power", "ATE": "0.91785615", "p-value (Stouffer's Combination)": "0.033200109"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Vessel number, Tanker", "ATE": "0.971882693", "p-value (Stouffer's Combination)": "0.025961875"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Length, Breadth", "ATE": "0.940072928", "p-value (Stouffer's Combination)": "0.030044101"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Length, Draft", "ATE": "0.939513977", "p-value (Stouffer's Combination)": "0.030120338"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Length, Wind", "ATE": "0.935346125", "p-value (Stouffer's Combination)": "0.030693875"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Length, Visibility", "ATE": "0.946473358", "p-value (Stouffer's Combination)": "0.029182478"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Length, Tonnage", "ATE": "0.939664181", "p-value (Stouffer's Combination)": "0.030099836"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Length, Power", "ATE": "0.953894254", "p-value (Stouffer's Combination)": "0.028209278"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Length, Tanker", "ATE": "1.008682076", "p-value (Stouffer's Combination)": "0.021828763"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Breadth, Draft", "ATE": "0.940372399", "p-value (Stouffer's Combination)": "0.030003321"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Breadth, Wind", "ATE": "0.935514884", "p-value (Stouffer's Combination)": "0.030670478"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Breadth, Visibility", "ATE": "0.944750354", "p-value (Stouffer's Combination)": "0.029412384"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Breadth, Tonnage", "ATE": "0.931832925", "p-value (Stouffer's Combination)": "0.031184322"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Breadth, Power", "ATE": "0.952559925", "p-value (Stouffer's Combination)": "0.028382247"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Breadth, Tanker", "ATE": "0.98560642", "p-value (Stouffer's Combination)": "0.024349768"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Draft, Wind", "ATE": "0.93293498", "p-value (Stouffer's Combination)": "0.031029781"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Draft, Visibility", "ATE": "0.944816046", "p-value (Stouffer's Combination)": "0.029403591"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Draft, Tonnage", "ATE": "0.935804839", "p-value (Stouffer's Combination)": "0.030630312"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Draft, Power", "ATE": "0.950576182", "p-value (Stouffer's Combination)": "0.028641029"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Draft, Tanker", "ATE": "1.007185478", "p-value (Stouffer's Combination)": "0.021985301"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Wind, Visibility", "ATE": "0.942200454", "p-value (Stouffer's Combination)": "0.029755384"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Wind, Tonnage", "ATE": "0.935176721", "p-value (Stouffer's Combination)": "0.030717376"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Wind, Power", "ATE": "0.950055863", "p-value (Stouffer's Combination)": "0.02870923"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Wind, Tanker", "ATE": "1.000032712", "p-value (Stouffer's Combination)": "0.0227466"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Visibility, Tonnage", "ATE": "0.946061602", "p-value (Stouffer's Combination)": "0.029237284"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Visibility, Power", "ATE": "0.956377094", "p-value (Stouffer's Combination)": "0.027889764"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Visibility, Tanker", "ATE": "1.017365051", "p-value (Stouffer's Combination)": "0.020939019"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Tonnage, Power", "ATE": "0.95343522", "p-value (Stouffer's Combination)": "0.028268683"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Tonnage, Tanker", "ATE": "1.019621598", "p-value (Stouffer's Combination)": "0.020712881"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Power, Deck barge", "ATE": "0.954013084", "p-value (Stouffer's Combination)": "0.028193917"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Power, Tanker", "ATE": "1.031104238", "p-value (Stouffer's Combination)": "0.019593946"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Longitude, Tanker", "ATE": "0.919294425", "p-value (Stouffer's Combination)": "0.032987841"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Vessel number, Tanker", "ATE": "0.924116661", "p-value (Stouffer's Combination)": "0.032284298"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Length, Tanker", "ATE": "0.950668737", "p-value (Stouffer's Combination)": "0.028628912"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Breadth, Tanker", "ATE": "0.924565656", "p-value (Stouffer's Combination)": "0.032219427"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Draft, Tanker", "ATE": "0.944600082", "p-value (Stouffer's Combination)": "0.029432506"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Wind, Tanker", "ATE": "0.947536824", "p-value (Stouffer's Combination)": "0.029041323"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Visibility, Tanker", "ATE": "0.958595653", "p-value (Stouffer's Combination)": "0.027606816"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Tonnage, Tanker", "ATE": "0.961452972", "p-value (Stouffer's Combination)": "0.027245932"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Latitude, Power, Tanker", "ATE": "0.965603042", "p-value (Stouffer's Combination)": "0.026728786"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Longitude, Vessel number, Tanker", "ATE": "0.937280133", "p-value (Stouffer's Combination)": "0.030426622"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Longitude, Length, Tanker", "ATE": "0.949815215", "p-value (Stouffer's Combination)": "0.028740818"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Longitude, Breadth, Tanker", "ATE": "0.932465221", "p-value (Stouffer's Combination)": "0.031095577"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Longitude, Draft, Tanker", "ATE": "0.957248688", "p-value (Stouffer's Combination)": "0.027778317"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Longitude, Wind, Tanker", "ATE": "0.953903739", "p-value (Stouffer's Combination)": "0.028208052"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Longitude, Visibility, Tanker", "ATE": "0.972279634", "p-value (Stouffer's Combination)": "0.025914023"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Longitude, Tonnage, Tanker", "ATE": "0.97302628", "p-value (Stouffer's Combination)": "0.025824213"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Longitude, Power, Tanker", "ATE": "0.977104737", "p-value (Stouffer's Combination)": "0.025338225"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Vessel number, Length, Tanker", "ATE": "0.963237346", "p-value (Stouffer's Combination)": "0.027022564"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Vessel number, Breadth, Tanker", "ATE": "0.945680777", "p-value (Stouffer's Combination)": "0.029288049"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Vessel number, Draft, Tanker", "ATE": "0.959677158", "p-value (Stouffer's Combination)": "0.027469754"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Vessel number, Wind, Tanker", "ATE": "0.96103513", "p-value (Stouffer's Combination)": "0.027298459"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Vessel number, Visibility, Tanker", "ATE": "0.974178309", "p-value (Stouffer's Combination)": "0.025686153"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Vessel number, Tonnage, Tanker", "ATE": "0.977036698", "p-value (Stouffer's Combination)": "0.025346269"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Vessel number, Power, Tanker", "ATE": "0.977276701", "p-value (Stouffer's Combination)": "0.025317903"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Breadth, Draft", "ATE": "0.938937026", "p-value (Stouffer's Combination)": "0.030199198"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Breadth, Wind", "ATE": "0.933302619", "p-value (Stouffer's Combination)": "0.030978368"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Breadth, Visibility", "ATE": "0.942509924", "p-value (Stouffer's Combination)": "0.029713579"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Breadth, Tonnage", "ATE": "0.929291067", "p-value (Stouffer's Combination)": "0.031543196"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Breadth, Power", "ATE": "0.941034651", "p-value (Stouffer's Combination)": "0.029913303"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Breadth, Tanker", "ATE": "0.982617143", "p-value (Stouffer's Combination)": "0.024693564"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Draft, Wind", "ATE": "0.930888167", "p-value (Stouffer's Combination)": "0.031317312"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Draft, Visibility", "ATE": "0.942868651", "p-value (Stouffer's Combination)": "0.029665182"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Draft, Tonnage", "ATE": "0.933702055", "p-value (Stouffer's Combination)": "0.030922588"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Draft, Power", "ATE": "0.939337675", "p-value (Stouffer's Combination)": "0.030144418"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Draft, Tanker", "ATE": "1.003988047", "p-value (Stouffer's Combination)": "0.022322916"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Wind, Visibility", "ATE": "0.937387805", "p-value (Stouffer's Combination)": "0.0304118"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Wind, Tonnage", "ATE": "0.93033779", "p-value (Stouffer's Combination)": "0.031395002"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Wind, Power", "ATE": "0.938350746", "p-value (Stouffer's Combination)": "0.030279509"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Wind, Tanker", "ATE": "0.991558791", "p-value (Stouffer's Combination)": "0.023677149"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Visibility, Tonnage", "ATE": "0.94210464", "p-value (Stouffer's Combination)": "0.029768336"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Visibility, Power", "ATE": "0.9439716", "p-value (Stouffer's Combination)": "0.029516788"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Visibility, Tanker", "ATE": "1.01025088", "p-value (Stouffer's Combination)": "0.021665684"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Tonnage, Power", "ATE": "0.941050964", "p-value (Stouffer's Combination)": "0.029911089"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Tonnage, Tanker", "ATE": "1.012318258", "p-value (Stouffer's Combination)": "0.021452351"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Power, Deck barge", "ATE": "0.941897993", "p-value (Stouffer's Combination)": "0.029796288"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Length, Power, Tanker", "ATE": "1.010621276", "p-value (Stouffer's Combination)": "0.021627331"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Draft, Wind", "ATE": "0.933630717", "p-value (Stouffer's Combination)": "0.030932544"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Draft, Visibility", "ATE": "0.943634424", "p-value (Stouffer's Combination)": "0.029562087"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Draft, Tonnage", "ATE": "0.925758325", "p-value (Stouffer's Combination)": "0.032047631"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Draft, Power", "ATE": "0.941242045", "p-value (Stouffer's Combination)": "0.029885159"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Draft, Tanker", "ATE": "0.983322475", "p-value (Stouffer's Combination)": "0.024612079"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Wind, Visibility", "ATE": "0.937196457", "p-value (Stouffer's Combination)": "0.030438145"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Wind, Tonnage", "ATE": "0.924378219", "p-value (Stouffer's Combination)": "0.032246495"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Wind, Power", "ATE": "0.939265142", "p-value (Stouffer's Combination)": "0.030154329"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Wind, Tanker", "ATE": "0.971879807", "p-value (Stouffer's Combination)": "0.025962223"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Visibility, Tonnage", "ATE": "0.933214646", "p-value (Stouffer's Combination)": "0.030990664"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Visibility, Power", "ATE": "0.941864541", "p-value (Stouffer's Combination)": "0.029800815"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Visibility, Tanker", "ATE": "0.98858688", "p-value (Stouffer's Combination)": "0.024010996"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Tonnage, Power", "ATE": "0.932083109", "p-value (Stouffer's Combination)": "0.031149183"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Tonnage, Tanker", "ATE": "0.971650288", "p-value (Stouffer's Combination)": "0.025989926"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Power, Deck barge", "ATE": "0.941017362", "p-value (Stouffer's Combination)": "0.029915651"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Breadth, Power, Tanker", "ATE": "0.978950792", "p-value (Stouffer's Combination)": "0.025120781"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Wind, Visibility", "ATE": "0.935840694", "p-value (Stouffer's Combination)": "0.030625348"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Wind, Tonnage", "ATE": "0.925810067", "p-value (Stouffer's Combination)": "0.032040195"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Wind, Power", "ATE": "0.935108714", "p-value (Stouffer's Combination)": "0.030726815"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Wind, Tanker", "ATE": "0.988867019", "p-value (Stouffer's Combination)": "0.023979359"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Visibility, Tonnage", "ATE": "0.939149171", "p-value (Stouffer's Combination)": "0.030170182"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Visibility, Power", "ATE": "0.940866859", "p-value (Stouffer's Combination)": "0.02993609"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Visibility, Tanker", "ATE": "1.011519373", "p-value (Stouffer's Combination)": "0.021534577"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Tonnage, Power", "ATE": "0.936616532", "p-value (Stouffer's Combination)": "0.030518104"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Tonnage, Tanker", "ATE": "1.007012805", "p-value (Stouffer's Combination)": "0.022003422"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Power, Deck barge", "ATE": "0.939058006", "p-value (Stouffer's Combination)": "0.030182648"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Draft, Power, Tanker", "ATE": "1.005402599", "p-value (Stouffer's Combination)": "0.022173018"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Wind, Visibility, Tonnage", "ATE": "0.936835401", "p-value (Stouffer's Combination)": "0.030487906"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Wind, Visibility, Power", "ATE": "0.940856715", "p-value (Stouffer's Combination)": "0.029937468"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Wind, Visibility, Tanker", "ATE": "0.999991828", "p-value (Stouffer's Combination)": "0.022751014"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Wind, Tonnage, Power", "ATE": "0.937985206", "p-value (Stouffer's Combination)": "0.030329671"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Wind, Tonnage, Tanker", "ATE": "1.003014522", "p-value (Stouffer's Combination)": "0.022426575"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Wind, Power, Deck barge", "ATE": "0.938965808", "p-value (Stouffer's Combination)": "0.03019526"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Wind, Power, Tanker", "ATE": "1.007578358", "p-value (Stouffer's Combination)": "0.021944116"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Visibility, Tonnage, Power", "ATE": "0.944002731", "p-value (Stouffer's Combination)": "0.029512609"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Visibility, Tonnage, Tanker", "ATE": "1.021557037", "p-value (Stouffer's Combination)": "0.020520574"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Visibility, Power, Deck barge", "ATE": "0.944533297", "p-value (Stouffer's Combination)": "0.029441453"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Visibility, Power, Tanker", "ATE": "1.016079838", "p-value (Stouffer's Combination)": "0.021068747"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Tonnage, Power, Deck barge", "ATE": "0.942112037", "p-value (Stouffer's Combination)": "0.029767336"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Tonnage, Power, Tanker", "ATE": "1.018793665", "p-value (Stouffer's Combination)": "0.02079561"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Latitude, Tanker", "ATE": "0.919294425", "p-value (Stouffer's Combination)": "0.032987841"}
+{"Accident_Type": "Grounding", "HFACS-S": "PR", "Attribute_Combination": " Time_Period_Code, Vessel number, Tanker", "ATE": "0.924116661", "p-value (Stouffer's Combination)": "0.032284298"}
