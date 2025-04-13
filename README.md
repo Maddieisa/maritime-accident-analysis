@@ -1,4 +1,4 @@
-# 🚢 Maritime Accident Analysis
+# 🚢 Maritime Accident Analysis(HS-MACs）
 
 This repository presents the results and visualizations of a **HFACS-based causal analysis** of maritime accidents from 2015 to 2024. It integrates structured data, large language model (LLM)-assisted classification, and statistical causal inference methods to explore the relationships between human and environmental factors and accident outcomes.
 
