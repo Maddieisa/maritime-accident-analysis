@@ -1,12 +1,78 @@
-# maritime-accident-analysis
-This repository contains a Sankey diagram for HFACS-based maritime accident analysis and related data.
-Causal Analysis of Maritime Accidents
-This dataset presents the results of a causal analysis on maritime accidents, integrating the HFACS framework and key attribute combinations to identify accident types. It includes Average Treatment Effect (ATE) estimates and Stouffer's combined p-values, providing a statistically grounded assessment of causal relationships.
+# 🚢 Maritime Accident Analysis
 
-Additionally, the repository contains three interactive Sankey diagrams (HTML format), categorized by maritime accident types, allowing users to dynamically explore causal pathways.
+This repository presents the results and visualizations of a **HFACS-based causal analysis** of maritime accidents from 2015 to 2024. It integrates structured data, large language model (LLM)-assisted classification, and statistical causal inference methods to explore the relationships between human and environmental factors and accident outcomes.
 
-Contents:
-Causal Analysis Data: HFACS + Attribute Combination = Accident Type, with ATE and p-values
-Interactive Sankey Diagrams: Visualizing causal interactions across different accident types
-Purpose:
-This dataset aims to serve as a valuable research resource for maritime accident analysts, safety researchers, and policymakers, offering insights into human factors and accident causality.
+---
+
+## 📌 Project Overview
+
+This study applies the **Human Factors Analysis and Classification System (HFACS)** to a collection of over 300 maritime accident reports. By combining HFACS classifications with selected environmental attributes, we construct and evaluate **causal chains** leading to various accident types.
+
+---
+
+## 🧠 Analysis Workflow
+
+The full analysis pipeline includes:
+
+1. **Data Collection**:  
+   - Maritime accident reports (2015–2024) saved as PDFs  
+   - Extraction of the “*Probable Cause*” paragraph from each report
+
+2. **LLM-based Classification**:  
+   - Use of [DeepSeek](https://www.deepseek.com/) API with three prompt variations to classify probable causes based on the HFACS framework  
+   - Three rounds of classification with varying perspectives
+
+3. **Decision Algorithm**:  
+   - A majority-voting-based decision logic was applied to unify the three classification results into a single HFACS label per case
+
+4. **Human Validation**:  
+   - Manual verification of selected samples for final classification consistency
+
+5. **Causal Analysis**:  
+   - Construction of structured datasets:  
+     `HFACS factor + up to 3 environmental factors (e.g., date, location, vessel type, wind)`  
+     → `Accident Type`  
+   - Evaluation using **Average Treatment Effect (ATE)** and **confidence intervals (CI)**
+   - Filtered and selected high-performing causal relationships for final dataset
+
+---
+## 📈 Key Components
+
+### 📁 Causal Analysis Dataset
+
+- **Structure**:  
+  `HFACS Category + Environmental Factors → Accident Type`
+- **Includes**:
+  - Average Treatment Effect (ATE)
+  - 95% Confidence Intervals
+  - Combined significance using Stouffer’s method
+
+### 🌐 Interactive Sankey Diagrams
+
+- Clickable, dynamic diagrams in HTML format
+- Visualize causal chains for different accident types
+- Files located in `/visualizations/`
+
+## 🎯 Project Purpose
+
+This repository is designed to serve as a resource for:
+
+- **Safety Analysts** — to trace risk factors and root causes in accident progression  
+- **Policy Makers** — to understand environmental and human patterns in maritime incidents  
+- **Research Community** — to experiment with LLM-based classification and HFACS frameworks  
+- **Developers** — to reuse modular scripts for classification, decision-making, and visualization
+
+---
+
+## 📬 Contact
+
+If you have questions, suggestions, or would like to collaborate:
+
+📧 Email: `qianqianz540@gmail.com`  
+📘 GitHub Issues: [Create an issue](https://github.com/Maddieisa/maritime-accident-analysis/issues)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
