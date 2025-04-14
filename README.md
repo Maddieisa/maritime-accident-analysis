@@ -1,6 +1,6 @@
 # 🚢 Maritime Accident Analysis(HS-MACs）
 
-This repository presents the results and visualizations of a **HFACS-based causal analysis** of maritime accidents from 2015 to 2024. It integrates structured data, large language model (LLM)-assisted classification, and statistical causal inference methods to explore the relationships between human and environmental factors and accident outcomes.
+This repository presents the results and visualizations of a **HFACS-based causal analysis** of maritime accidents from 2015 to 2024——HS-MACs. It integrates structured data, large language model (LLM)-assisted classification, and statistical causal inference methods to explore the relationships between human and environmental factors and accident outcomes.
 
 ---
 
@@ -26,13 +26,13 @@ The full analysis pipeline includes:
    - A majority-voting-based decision logic was applied to unify the three classification results into a single HFACS label per case
 
 4. **Human Validation**:  
-   - Manual verification of selected samples for final classification consistency
+   - Manual verification of selected samples for final classification consistency. In order to ensure the stability of the classification results of the large model and algorithm, we found three scholars in related fields to supplement and optimize the results, manually judge and classify the data that the large model failed to classify, and judge the results of abnormal outputs of the decision algorithm based on the complete content of the corresponding accident report. All results have been manually reviewed many times.
 
 5. **Causal Analysis**:  
    - Construction of structured datasets:  
      `HFACS factor + up to 3 environmental factors (e.g., date, location, vessel type, wind)`  
      → `Accident Type`  
-   - Evaluation using **Average Treatment Effect (ATE)** and **confidence intervals (CI)**
+   - Evaluation using **Average Treatment Effect (ATE)** and **p-value (Stouffer combination)**
    - Filtered and selected high-performing causal relationships for final dataset
 
 ---
@@ -41,7 +41,7 @@ The full analysis pipeline includes:
 ### 📁 Causal Analysis Dataset
 
 - **Structure**:  
-  `HFACS Category + Environmental Factors → Accident Type`
+  `HFACS Category + Environmental Factors(≤3 combination) → Accident Type`
 - **Includes**:
   - Average Treatment Effect (ATE)
   - 95% Confidence Intervals
